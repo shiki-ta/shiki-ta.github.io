@@ -17,9 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+Zhenhao Zhang(章震豪)，Computer Science and Technology，China University of Petroleum (East China)
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I am a visit student in ShanghaiTech University(VDI Center) under the supervision of Prof. Ye Shi, who is an expert in the field of Machine Learning.I have been accepted by ShanghaiTech University as a master student.
+
+My research interest includes reinforcement learning, computer vision and big data.
+
+Email:zhangzhh2002 AT gmail DOT com
+
+
 
 
 # 🔥 News
@@ -36,7 +42,7 @@ My research interest includes neural machine translation and computer vision. I 
 - *2021.4* Shandong First Prize（Group A），LanQiao Cup.
 
 # 📖 Educations
-- *2024.09(except) - now*, ShanghaiTech University, School of Information Science and Technology, Major in Electric Information. 
-- *2020.09 - 2024.06(except)*, China University of Petroleum (East China), School of Computer Science and Technology, Major in Computer Science and Technology.
+- *2024.09(excepted) - now*, ShanghaiTech University, School of Information Science and Technology, Major in Electric Information. 
+- *2020.09 - 2024.06(excepted)*, China University of Petroleum (East China), School of Computer Science and Technology, Major in Computer Science and Technology.
 
 
