@@ -17,13 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Zhenhao Zhang(章震豪)，Computer Science and Technology，China University of Petroleum (East China)
+Zhenhao Zhang(章震豪),School of Information Science and Technology,ShanghaiTech University
 
-I am a visit student in ShanghaiTech University(VDI Center) under the supervision of Prof. Ye Shi, who is an expert in the field of Machine Learning.I have been accepted by ShanghaiTech University as a master student.
+I am a Visit/Master student in ShanghaiTech University(VDI Center)under the supervision of Prof. Ye Shi, who is an expert in the field of Machine Learning.I will get my B.S. Degree at China University of Petroleum(East China) under the supervision of Prof. Yuquan Song,who is an expert in the field of Statistics.
 
-My research interest includes reinforcement learning, computer vision and big data.
+My research interest includes Reinforcement Learning, Computer Vision and Big Data.
 
-Email:zhangzhh2002 AT gmail DOT com
+Email:v-zhangzhh1 AT shanghaitech DOT edu DOT cn
 
 
 
@@ -36,10 +36,10 @@ Email:zhangzhh2002 AT gmail DOT com
 
 # 🎖 Honors and Awards
 - *2023.5* National Second Prize，China Robotics and Artificial Intelligence Competition(CRAIC)
-- *2023.4* Shandong First Prize（Group A），LanQiao Cup.
+- *2023.4* Shandong First Prize(Group A)，LanQiao Cup.
 - *2022.11* Bronze Medal(SOLO),Kaggle Featured Code Competition:Feedback Prize - English Language Learning
 - *2022.6* Finalist，America Mathematics Contest in Modeling(MCM),only 1%.
-- *2021.4* Shandong First Prize（Group A），LanQiao Cup.
+- *2021.4* Shandong First Prize(Group A)，LanQiao Cup.
 
 # 📖 Educations
 - *2024.09(excepted) - now*, ShanghaiTech University, School of Information Science and Technology, Major in Electric Information. 
