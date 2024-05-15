@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zhenhao Zhang"
-description              : "Master Student in ShanghaiTech Unieversity，Major in Computer Science and Technology"
+description              : "Master Student in ShanghaiTech Unieversity，Major in Electric Information"
 repository               : "Zhenhao-Zhang/Zhenhao-Zhang.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -22,13 +22,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Zhenhao Zhang"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/me.png"
   bio              : "ShanghaiTech University"
   location         : "Shanghai, China"
   employer         :
   pubmed           : 
   googlescholar    : #"https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "zhangzhh2002@gmail.com"
+  email            : "v-zhangzhh1@shanghaitech.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
