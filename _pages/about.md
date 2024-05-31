@@ -42,7 +42,7 @@ Email:v-zhangzhh1 AT shanghaitech DOT edu DOT cn
 - *2021.4* Shandong First Prize(Group A)，LanQiao Cup.
 
 # 📖 Educations
-- *2024.09(excepted) - now*, ShanghaiTech University, School of Information Science and Technology, Major in Electric Information. 
-- *2020.09 - 2024.06(excepted)*, China University of Petroleum (East China), School of Computer Science and Technology, Major in Computer Science and Technology.
+- *2024.09(expected) - now*, ShanghaiTech University, School of Information Science and Technology, Major in Electric Information. 
+- *2020.09 - 2024.06(expected)*, China University of Petroleum (East China), School of Computer Science and Technology, Major in Computer Science and Technology.
 
 
