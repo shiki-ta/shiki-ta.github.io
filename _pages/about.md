@@ -47,4 +47,4 @@ Email:v-zhangzhh1 AT shanghaitech DOT edu DOT cn
 - Visit Student,2024.2-2024.9,ShanghaiTech University
 
 # 💼 Services
-- *Reviewer*: NeurIPS'24
+- *Reviewer*: NeurIPS
