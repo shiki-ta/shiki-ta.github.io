@@ -44,7 +44,7 @@ Email:v-zhangzhh1 AT shanghaitech DOT edu DOT cn
 - *2020.09 - 2024.06*, China University of Petroleum (East China), School of Computer Science and Technology, Major in Computer Science and Technology.
 
 # 💻 Intership
-- Visit Student,2024.2-2024.9,ShanghaiTech University
+- Visit Student,2024.3-2024.9,ShanghaiTech University
 
 # 💼 Services
 - Reviewer: NeurIPS
