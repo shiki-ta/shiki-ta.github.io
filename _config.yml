@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zhenhao Zhang"
-description              : "Master Student in ShanghaiTech Unieversity，Major in Electric Information"
+description              : "Master Student,ShanghaiTech Unieversity"
 repository               : "Zhenhao-Zhang/Zhenhao-Zhang.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zhenhao Zhang"
   avatar           : "images/me.png"
-  bio              : "ShanghaiTech University"
+  bio              : "3D Pose and Embody AI"
   location         : "Shanghai, China"
   employer         :
   pubmed           : 
