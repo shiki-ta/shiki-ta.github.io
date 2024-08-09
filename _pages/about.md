@@ -31,7 +31,15 @@ Email:v-zhangzhh1 AT shanghaitech DOT edu DOT cn
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv</div><img src='images/publications/QVPO.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
+**Diffusion-based Reinforcement Learning via Q-weighted Variational Policy Optimization, arXiv:2405.16173**
+
+Shutong Ding, Ke Hu, **Zhenhao Zhang**, Kan Ren, Weinan Zhang, Jingyi Yu, Jingya Wang, Ye Shi\*
+
+</div>
+</div>
 
 # 🎖 Honors and Awards
 - *2023.5* National Second Prize，China Robotics and Artificial Intelligence Competition(CRAIC)
