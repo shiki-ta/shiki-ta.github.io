@@ -21,13 +21,11 @@ I am a Master student in ShanghaiTech University(VDI Center,YESAI Lab)under the 
 
 My research interest includes Hand-Object Interaction,Reinforcement Learning and 3D Computer Vision.
 
-Email for Work,or other things **Official**:zhangzhh2024 AT shanghaitech DOT edu DOT cn
-
-Email for something else：upczzhcv AT 163 DOT com 
+Email :zhangzhh2024 AT shanghaitech DOT edu DOT cn.Feel **Free** to contact me!
 
 I used to use v-zhangzhh1 AT shanghaitech DOT edu DOT cn when I was a **Visit Student** in ShanghaiTech University.
 
-Any Time if you want to work with me or just talk someting interesting.Feel **Free** to contact me!
+
 
 
 

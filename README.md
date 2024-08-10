@@ -14,7 +14,7 @@
 - 🌱 I’m currently learning Hand-Object Interaction in Robotics.
 - 💬 Ask me about anything about Machine Learning and other interesting, and I will try my best to help you :)
 - 📫 How to reach me: 
-  - Email: v-zhangzhh1@shanghaitech.edu.cn
+  - Email: zhangzhh2024@shanghaitech.edu.cn
   - Blog: <a href="https://zhenhao-zhang.github.io/">My Blog</a>
   - WeChat: ACHEzzh (indicate the reason)
 - ❤️ Motto: Talk is cheep,show me your code
