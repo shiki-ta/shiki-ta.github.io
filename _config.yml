@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Zhenhao Zhang"
-  cname            : "章震豪"
+  cname            : 章震豪
   avatar           : "images/me.png"
   bio              : "Master Student"
   location         : "Shanghai, China"
