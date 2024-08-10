@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zhenhao Zhang"
-description              : "Master Student,ShanghaiTech Unieversity"
+description              : "YESAI Lab,VDI Center,SIST"
 repository               : "Zhenhao-Zhang/Zhenhao-Zhang.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,9 +21,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Zhenhao Zhang"
+  name             : "Zhenhao Zhang 章震豪"
   avatar           : "images/me.png"
-  bio              : "3D Pose and Embody AI"
+  bio              : "Master Student"
   location         : "Shanghai, China"
   employer         :
   pubmed           : 
