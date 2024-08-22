@@ -19,11 +19,10 @@ redirect_from:
 
 I am a Master student in ShanghaiTech University(YESAI Lab,VDI Center)under the supervision of Prof. Ye Shi, who is an expert in the field of Machine Learning.I get my B.S. Degree at China University of Petroleum(East China) under the supervision of Prof. Yunquan Song,who is an expert in the field of Statistics.
 
-My research interest includes Hand-Object Interaction,Diffusion Model and Computer Vision.
+My research interest includes Robotics,Reinforcement learning and Computer Vision.
 
-Email :zhangzhh2024 AT shanghaitech DOT edu DOT cn.Feel **Free** to contact me!
+Email :zhangzhh2024 AT shanghaitech DOT edu DOT cn.
 
-I used to use v-zhangzhh1 AT shanghaitech DOT edu DOT cn when I was a **Visit Student** in ShanghaiTech University.
 
 
 
@@ -54,8 +53,8 @@ Shutong Ding, Ke Hu, **Zhenhao Zhang**, Kan Ren, Weinan Zhang, Jingyi Yu, Jingya
 - *2021.4* Shandong First Prize(Group A)，LanQiao Cup.
 
 # 📖 Educations
-- *2024.09 - now*, ShanghaiTech University, School of Information Science and Technology
-- *2020.09 - 2024.06*, China University of Petroleum (East China), School of Computer Science and Technology
+- *2024.09 - now*, ShanghaiTech University
+- *2020.09 - 2024.06*, China University of Petroleum (East China)
 
 # 💻 Intership
 - Visit Student: 2024.3-2024.9,ShanghaiTech University
