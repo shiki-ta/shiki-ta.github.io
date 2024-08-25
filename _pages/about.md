@@ -23,6 +23,8 @@ My research interest includes Embodied AI,Reinforcement learning and Computer Vi
 
 Email :zhangzhh2024 AT shanghaitech DOT edu DOT cn.
 
+**Click** <href a="http://zhenhao-zhang.github.io/moreaboutme/">here</href> **to Know more about me**
+
 
 
 
@@ -46,15 +48,15 @@ Shutong Ding, Ke Hu, **Zhenhao Zhang**, Kan Ren, Weinan Zhang, Jingyi Yu, Jingya
 </div>
 
 # 🎖 Honors and Awards
-- *2023.5* National Second Prize，China Robotics and Artificial Intelligence Competition(CRAIC)
-- *2023.4* Shandong First Prize(Group A)，LanQiao Cup.
+- *2023.5* National Second Prize,China Robotics and Artificial Intelligence Competition(CRAIC)
+- *2023.4* Shandong First Prize(Group A),LanQiao Cup.
 - *2022.11* Bronze Medal(SOLO),Kaggle Featured Code Competition:Feedback Prize - English Language Learning
-- *2022.6* Finalist，America Mathematics Contest in Modeling(MCM),Top 1%.
-- *2021.4* Shandong First Prize(Group A)，LanQiao Cup.
+- *2022.6* Finalist,America Mathematics Contest in Modeling(MCM),Top 1%.
+- *2021.4* Shandong First Prize(Group A),LanQiao Cup.
 
 # 📖 Educations
-- *2024.09 - now*, ShanghaiTech University
-- *2020.09 - 2024.06*, China University of Petroleum (East China)
+- *2024.09 - now*,ShanghaiTech University
+- *2020.09 - 2024.06*,China University of Petroleum (East China)
 
 # 💻 Intership
 - Visit Student: 2024.3-2024.9,ShanghaiTech University
