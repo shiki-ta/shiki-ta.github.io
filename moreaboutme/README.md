@@ -17,8 +17,11 @@ I hope we can become like-minded partners in the future!
 # 从哪儿来,到哪儿去(Where you came from, where you're going)
 我来自湖北省,在中国石油大学(华东)完成了本科阶段学位,即将前往上海科技大学攻读硕士学位,在可以预期的将来,我将会攻读机器学习领域博士学位,**我的家人十分支持我的这一决定**。
 
+我想去北京看看,或者是合肥,或者是回老家武汉。**我不考虑呆在上海,这里太卷了!!!**
+
 I am from Hubei Province, I have completed my undergraduate degree at China University of Petroleum (East China), and I am going to ShanghaiTech University to pursue my master's degree, and in the foreseeable future, I will pursue a PhD degree in the field of Machine Learning, **My family is very supportive of my decision**.
 
+I'd like to visit Beijing, or Hefei, or go back home to Wuhan. **I don't think about staying in Shanghai, it's too JUAN!!!**
 # 人生理想(Dream)
 我的人生理想是找一份稳定轻松的工作。但是理想是必须照进现实的,稳定轻松基本上可以直接和穷划等号。所以我的人生理想是找一份**稳定且有上升空间**的工作。目前,我倾向于去研究所工作。
 
@@ -76,7 +79,7 @@ I am a businessman, when you wish to benefit from me, please think about what yo
 PS. Of course the benefit here means something big, if it's just to bring a bottle of iced tea (which I like to drink) I won't even ask you for the money for the bottle of water.
 
 # 研究兴趣(Research Interest)
-我一直在机器学习领域进行一些探索。我对计算机视觉感兴趣，比如3D视觉。我也对具身智能和强化学习感兴趣，比如手物交互
+我一直在机器学习领域进行一些探索。我对计算机视觉感兴趣,比如3D视觉。我也对具身智能和强化学习感兴趣,比如手物交互
 
 I have been doing some exploration in the field of machine learning. I'm interested in computer vision, such as 3D vision. I'm also interested in embodied intelligence and reinforcement learning, such as hand-object interaction
 
