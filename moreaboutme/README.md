@@ -48,7 +48,7 @@ I was partially known because of some escapades during the guarantee period, sim
 In terms of work, I have been awarded **360 Group** Algorithm **Research** internship (because of the examination score the next day to reach the VISIT of SUSTech and give up), **Great Wall Motors Haomo AI**Algorithm internship offer.I have a high degree of self-driven ability and the ability to learn. I have a high level of self-driven ability and learning ability, and I am quite skilled in using Python/Pytorch/C++/Matlab, and I am quite skilled in using Linux/Django/Nginx and other tools for server-side development.
 
 # 关于学术(About Research)
-在学术方面,我目前在上海科技大学从事具身智能,强化学习相关的研究,在Prof. Ye Shi的指导下。我在Visit期间受邀成为NeurIPS24和ICLR25的审稿人。在本科期间,我曾经进行计算机视觉方面的研究,在Prof. Wenjuan Gong指导下。进行统计学方面的研究,在Prof. Yunquan Song指导下。同时,我非常感谢Dr. Junyao Huh和 Mr. Xianglong Meng可以成为我在计算机视觉与数据挖掘方面的领路人！
+在学术方面,我目前在上海科技大学从事具身智能,强化学习相关的研究,在Prof. Ye Shi的指导下。我在Visit期间受邀成为NeurIPS24和ICLR25的审稿人。在本科期间,我曾经进行计算机视觉方面的研究,在Prof. Wenjuan Gong指导下。进行统计学方面的研究,在Prof. Yunquan Song指导下。同时,我非常感谢Dr. Junyao Hu和 Mr. Xianglong Meng可以成为我在计算机视觉与数据挖掘方面的领路人！
 
 Academically, I am currently working on Embodied Intelligence and Reinforcement Learning at ShanghaiTech University under the supervision of Prof. Ye Shi. I was invited to be a reviewer for NeurIPS24 and ICLR25 during Visit. During my undergraduate studies, I conducted research in computer vision under the supervision of Prof. Wenjuan Gong. I conducted research in statistics under the supervision of Prof. Yunquan Song. Meanwhile, I am very grateful to Dr. Junyao Hu and Mr. Xianglong Meng for being my guides in computer vision and data mining!
 
