@@ -19,7 +19,7 @@ redirect_from:
 
 I am a Master student in ShanghaiTech University(YESAI Lab,VDI Center)under the supervision of Prof. Ye Shi, who is an expert in the field of Machine Learning.I get my B.S. Degree at China University of Petroleum(East China) under the supervision of Prof. Yunquan Song,who is an expert in the field of Statistics.
 
-My research interest includes Robotics,Reinforcement learning and Computer Vision.
+My research interest includes Embodied AI,Reinforcement learning and Computer Vision.
 
 Email :zhangzhh2024 AT shanghaitech DOT edu DOT cn.
 
@@ -61,4 +61,4 @@ Shutong Ding, Ke Hu, **Zhenhao Zhang**, Kan Ren, Weinan Zhang, Jingyi Yu, Jingya
 
 
 # 💼 Services
-- Reviewer: NeurIPS24
+- Reviewer: NeurIPS24(Undergrade),ICLR25(Undergrade)
