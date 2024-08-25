@@ -47,7 +47,7 @@ In terms of work, I have been awarded **360 Group** Algorithm **Research** inter
 # 关于学术(About Research)
 在学术方面,我目前在上海科技大学从事具身智能,强化学习相关的研究,在Prof. Ye Shi的指导下。我在Visit期间受邀成为NeurIPS24和ICLR25的审稿人。在本科期间,我曾经进行计算机视觉方面的研究,在Prof. Wenjuan Gong指导下。进行统计学方面的研究,在Prof. Yunquan Song指导下。同时,我非常感谢Dr. Junyao Huh和 Mr. Xianglong Meng可以成为我在计算机视觉与数据挖掘方面的领路人！
 
-Academically, I am currently working on Embodied Intelligence and Reinforcement Learning at ShanghaiTech University under the supervision of Prof. Ye Shi. I was invited to be a reviewer for NeurIPS24 and ICLR25 during Visit. During my undergraduate studies, I conducted research in computer vision under the supervision of Prof. Wenjuan Gong. I conducted research in statistics under the supervision of Prof. Yunquan Song. Meanwhile, I am very grateful to Dr. Junyao Huh and Mr. Xianglong Meng for being my guides in computer vision and data mining!
+Academically, I am currently working on Embodied Intelligence and Reinforcement Learning at ShanghaiTech University under the supervision of Prof. Ye Shi. I was invited to be a reviewer for NeurIPS24 and ICLR25 during Visit. During my undergraduate studies, I conducted research in computer vision under the supervision of Prof. Wenjuan Gong. I conducted research in statistics under the supervision of Prof. Yunquan Song. Meanwhile, I am very grateful to Dr. Junyao Hu and Mr. Xianglong Meng for being my guides in computer vision and data mining!
 
 # 关于爱好(About Hobby)
 <h1>我的兴趣爱好非常广泛！</h1>
@@ -60,7 +60,7 @@ Academically, I am currently working on Embodied Intelligence and Reinforcement 
 
 <h1>I have a wide range of interests!</h1>
 
-I'm also a big fan of 3A games (like Black Monkey, The Witcher III, GTA, Tomb Raider, Hitman, etc.), 2B games (like Original Farming, etc.), 4M games (Triple Triad starter!), and 4M games (Triple Triad starter!). Generally are relatively simple), 2B games (such as the original farm and so on), 4M games (Three Kingdoms to start!) I'm not a big gamer. I'm not a big fan of gaming, more often than not it's just a way to pass the time or find a topic to talk about with friends. If you are a gamer but love to play, we could be good friends! The games I currently play are: Black Myth: Goku, Wipeout: Star Dome Railroad, LOLM, Battle of the Golden Shovels.
+I'm also a big fan of 3A games (like Black Monkey, The Witcher III, GTA, Tomb Raider, Hitman, etc.), 2B games (like Original Farming, etc.), 4M games (Triple Triad starter!).I'm not a big fan of gaming, more often than not it's just a way to pass the time or find a topic to talk about with friends. If you are a gamer but love to play, we could be good friends! The games I currently play are: Black Myth: Wukong, Wipeout: Star Dome Railroad, LOLM, Battle of the Golden Shovels.
 
 I like to travel on the wrong side of the tracks! Love to go see some mountains and water, my dream is to be a warrior, although it may be caused by reading too many martial arts novels in junior high and high school. My favourite movie is **City Full of Gold**. I like travelling alone, or with no more than 3 people.
 
