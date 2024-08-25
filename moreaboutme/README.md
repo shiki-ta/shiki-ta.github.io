@@ -8,7 +8,7 @@
 
 希望我们日后可以成为志同道合的伙伴！
 
-Very glad you're here my/my future friend!
+I am very glad you're here my/my future friend!
 
 Tapping into this page signifies that you want to get to know me on a deeper level!
 
@@ -63,7 +63,7 @@ Academically, I am currently working on Embodied AI and Reinforcement Learning a
 
 <h1>I have a wide range of interests!</h1>
 
-I'm also a big fan of 3A games (like Black Myth: Wukong, The Witcher III, GTA, Tomb Raider, Hitman, etc.), handheld games (like Genshin Impact, the King's Glory, etc.), and tabletop games (Three Kingdoms). I'm not a big fan of games, more often than not I play them to pass the time or find a topic to talk about with my friends. If you are a gamer but love to play, we could be good friends! The main games I currently play are: Black Myth: Wukong, Wipeout: Star Dome Railroad, LOLM, Battle of the Golden Shovels.
+I would like to play 3A games (like Black Myth: Wukong, The Witcher III, GTA, Tomb Raider, Hitman, etc.), handheld games (like Genshin Impact, the King's Glory, etc.), and tabletop games (Three Kingdoms). I'm not a big fan of games, more often than not I play them to pass the time or find a topic to talk about with my friends. If you are a gamer but love to play, we could be good friends! The main games I currently play are: Black Myth: Wukong, Wipeout: Star Dome Railroad, LOLM, Battle of the Golden Shovels.
 
 I like to travel on the wrong side of the tracks! Love to go see some mountains and water, my dream is to be a warrior, although it may be caused by reading too many martial arts novels in junior high and high school. My favourite movie is **City Full of Gold**. I like travelling alone, or with no more than 3 people.
 

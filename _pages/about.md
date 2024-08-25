@@ -23,7 +23,7 @@ My research interest includes Embodied AI,Reinforcement learning and Computer Vi
 
 Email :zhangzhh2024 AT shanghaitech DOT edu DOT cn.
 
-**Click** <a href="http://zhenhao-zhang.github.io/moreaboutme/">here</a> **to Know more about me**
+**Click** <a href="http://zhenhao-zhang.github.io/moreaboutme/">here</a> **to Know more about me!**
 
 
 
@@ -63,4 +63,4 @@ Shutong Ding, Ke Hu, **Zhenhao Zhang**, Kan Ren, Weinan Zhang, Jingyi Yu, Jingya
 
 
 # 💼 Services
-- Reviewer: NeurIPS24(Undergrade),ICLR25(Undergrade)
+- Reviewer: NeurIPS24,ICLR25
