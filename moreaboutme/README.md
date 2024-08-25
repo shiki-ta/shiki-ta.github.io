@@ -31,7 +31,7 @@ My ideal in life is to find a stable and easy job. But ideals must be reflected 
 # 个人性格(Character)
 我的MBTI是ENTJ,E为51%,理性为88%。外E内I,或者说真正遇到在意的人或事会是I人。我经常莫名其妙的忧虑前途,虽然忧虑了也没用。我喜欢工作和生活分开,在工作中我会很严肃,在生活中则非常随和。
 
-**我喜欢简单直接的交流！如果你对我有任何的意见,请直接提出来！如果我有任何错误,请立即批评我！如果你的批评和意见是正确的,我将会不甚感激！**
+**我喜欢简单直接的交流！如果你对我有任何的意见,请直接提出来！如果我有任何错误,请立即批评我！如果你是正确的,我将不甚感激！**
 
 My MBTI is ENTJ with 51% E and 88% rational. I'm an E on the outside and an I on the inside, or an I when it comes to people or things I really care about. I often worry about the future for no apparent reason, although it's useless to worry about it. I like to keep my work and life separate. I am very serious at work, but very easy-going in life.
 
