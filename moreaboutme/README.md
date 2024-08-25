@@ -86,11 +86,11 @@ I have been doing some exploration in the field of machine learning. I'm interes
 # 朋友与圈子(Friends)
 我的线下朋友大多数在武汉,一般为初中,高中的同学们。我们有着相同的爱好,他们都很优秀,广泛就读于华中科技大学,武汉大学等武汉985/211高校。
 
-我的线上朋友遍布于五湖四海,大多集中于清北/华五/计算所/自动化所/人大等高校,或者BATTMD等互联网大厂。如果你也对机器学习,深度学习领域感兴趣,我很高兴与你交朋友。
+我的线上朋友遍布于五湖四海,大多集中于985/211/双一流高校,或者BATTMD等互联网大厂。如果你也对机器学习,深度学习领域感兴趣,我很高兴与你交朋友。
 
-Most of my offline friends are in Wuhan, usually from junior high school and high school. We share the same hobbies, and they are all very good, widely studied in Huazhong University of Science and Technology, Wuhan University and other 985/211 colleges and universities in Wuhan.
+Most of my offline friends are in Wuhan, usually from junior high school and high school. We share the same hobbies, and they are all very good, widely studied in Huazhong University of Science and Technology, Wuhan University and other 985/211 universities in Wuhan.
 
-My online friends are all over the world, most of them are concentrated in Qingbei/Huawu/Institute of Computing/Institute of Automation/NPC and other colleges and universities, or BATTMD and other big Internet companies. If you are also interested in machine learning, deep learning field, I am happy to make friends with you.
+My online friends are all over the world, most of them are concentrated in 985/211/TOP First Class universities, or BATTMD and other big Internet companies. If you are also interested in the field of machine learning, deep learning, I am happy to make friends with you.
 
 # 日常生活(Daily Life)
 目前的日常生活就是上班看看paper,下班打打游戏？感觉日复一日就是这样吧,人生不过三万天,我也不想干什么惊天动地的大事,过好自己的小日子就很好。
