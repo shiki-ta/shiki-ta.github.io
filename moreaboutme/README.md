@@ -55,7 +55,7 @@ Academically, I am currently working on Embodied Intelligence and Reinforcement 
 # 关于爱好(About Hobby)
 <h1>我的兴趣爱好非常广泛！</h1>
 
-我同时是多款3A大作(菜但爱玩,比如最近很火的黑猴,巫师三,GTA,古墓丽影,杀手等。一般都是比较简单的),2B游戏(比如原农之类的),4M游戏(三国杀启动！)的玩家。我不是很爱玩游戏,更多时候是为了打发时间或者是跟朋友们找个话题聊天。如果你也菜但是爱玩,我们可能是很好的朋友！我目前玩的游戏主要为：黑神话：悟空,崩坏：星穹铁道,LOLM,金铲铲之战
+我同时是多款3A大作(菜但爱玩,比如最近很火的黑猴,巫师三,GTA,古墓丽影,杀手等。一般都是比较简单的),手游(比如原农之类的),桌游(三国杀启动！)的玩家。我不是很爱玩游戏,更多时候是为了打发时间或者是跟朋友们找个话题聊天。如果你也菜但是爱玩,我们可能是很好的朋友！我目前玩的游戏主要为：黑神话：悟空,崩坏：星穹铁道,LOLM,金铲铲之战
 
 我喜欢错峰旅游！喜欢去看点山山水水,我的梦想是当一名大侠,虽然可能是因为初中高中武侠小说看多了导致的。我最喜欢的电影是**满城尽带黄金甲**。我喜欢一个人旅行,或者是不多于3个人出游。
 
@@ -63,7 +63,7 @@ Academically, I am currently working on Embodied Intelligence and Reinforcement 
 
 <h1>I have a wide range of interests!</h1>
 
-I'm also a big fan of 3A games (like Black Monkey, The Witcher III, GTA, Tomb Raider, Hitman, etc.), 2B games (like Original Farming, etc.), 4M games (Triple Triad starter!).I'm not a big fan of gaming, more often than not it's just a way to pass the time or find a topic to talk about with friends. If you are a gamer but love to play, we could be good friends! The games I currently play are: Black Myth: Wukong, Wipeout: Star Dome Railroad, LOLM, Battle of the Golden Shovels.
+I'm also a big fan of 3A games (like Black Myth: Wukong, The Witcher III, GTA, Tomb Raider, Hitman, etc.), handheld games (like Genshin Impact, the King's Glory, etc.), and tabletop games (Three Kingdoms). I'm not a big fan of games, more often than not I play them to pass the time or find a topic to talk about with my friends. If you are a gamer but love to play, we could be good friends! The main games I currently play are: Black Myth: Wukong, Wipeout: Star Dome Railroad, LOLM, Battle of the Golden Shovels.
 
 I like to travel on the wrong side of the tracks! Love to go see some mountains and water, my dream is to be a warrior, although it may be caused by reading too many martial arts novels in junior high and high school. My favourite movie is **City Full of Gold**. I like travelling alone, or with no more than 3 people.
 
