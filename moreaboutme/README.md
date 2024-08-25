@@ -1,15 +1,7 @@
 ---
-title: ""
-excerpt: ""
-author_profile: true
+author_profile: false
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <h1>"人生哪能多如意,万事只求半称心"</h1>
 <h1>"The life journal won't be as perfect as you want,Only expect everthing to be not bad"</h1>
