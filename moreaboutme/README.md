@@ -1,8 +1,3 @@
----
-author_profile: false
----
-
-
 <h1>"人生哪能多如意,万事只求半称心"</h1>
 <h1>"The life journal won't be as perfect as you want,Only expect everthing to be not bad"</h1>
 
