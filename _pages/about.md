@@ -59,7 +59,7 @@ Shutong Ding, Ke Hu, **Zhenhao Zhang**, Kan Ren, Weinan Zhang, Jingyi Yu, Jingya
 - *2020.09 - 2024.06*,China University of Petroleum (East China)
 
 # 💻 Intership
-- Visit Student: 2024.3-2024.9,ShanghaiTech University
+- *2024.3-2024.9*,Visit Student,ShanghaiTech University
 
 
 # 💼 Services
