@@ -21,7 +21,7 @@ I am a Master student in ShanghaiTech University(YESAI Lab,VDI Center)under the 
 
 My research interest includes Embodied AI,Reinforcement learning and Computer Vision.
 
-Email :zhangzhh2024 AT shanghaitech DOT edu DOT cn.
+Email :zhhzhang AT shanghaitech DOT edu DOT cn.
 
 **Click** <a href="http://zhenhao-zhang.github.io/moreaboutme/">here</a> **to Know more about me!**
 
