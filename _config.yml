@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zhenhao Zhang"
-description              : "Master Student in ShanghaiTech Unieversity，Major in Electric Information"
+description              : "YESAI Lab,VDI Center,SIST"
 repository               : "Zhenhao-Zhang/Zhenhao-Zhang.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Zhenhao Zhang"
+  name             : "Zhenhao Zhang 章震豪"
   avatar           : "images/me.png"
-  bio              : "ShanghaiTech University"
+  bio              : "Master Student"
   location         : "Shanghai, China"
   employer         :
   pubmed           : 
   googlescholar    : #"https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
-  email            : "v-zhangzhh1@shanghaitech.edu.cn"
+  email            : "zhhzhang@shanghaitech.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
