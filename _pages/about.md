@@ -19,7 +19,7 @@ redirect_from:
 
 I am a Master student in ShanghaiTech University(YESAI Lab,VDI Center)under the supervision of Prof. Ye Shi, who is an expert in the field of Machine Learning.I get my B.S. Degree in China University of Petroleum(East China) under the supervision of Prof. Yunquan Song,who is an expert in the field of Statistics.
 
-My research interest includes Reinforcement Learning ,Computer Vision and Data Mining.I focus on the area of Embodied AI,World Model,Diffusion Model,Auto-Drive and Biomedic Models.
+My research interest includes Reinforcement Learning ,Computer Vision and Data Mining.Now I focus on the area of Embodied AI and Biomedical Models.
 
 Email :zhhzhang AT shanghaitech DOT edu DOT cn
 
