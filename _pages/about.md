@@ -23,7 +23,7 @@ My research interest includes Reinforcement Learning ,Computer Vision and Data M
 
 Email :zhhzhang AT shanghaitech DOT edu DOT cn
 
-**Click** <a href="https://zhenhao-zhang.github.io/randomsentence/">here</a> **to Get a Sentence Which I Like!**
+**Click** <a href="https://zhangzhh.cn/randomsentence/">here</a> **to Get a Sentence Which I Like!**
 
 
 
