@@ -21,7 +21,7 @@ I am a Master student in ShanghaiTech University(YESAI Lab,VDI Center)under the 
 
 My research interest includes Reinforcement Learning ,Computer Vision and Data Mining.Now I focus on the area of Embodied AI and Biomedical Models.
 
-Email :zhhzhang AT shanghaitech DOT edu DOT cn
+Email :zhangzhh2024 AT shanghaitech DOT edu DOT cn
 
 **Click** <a href="https://zhangzhh.cn/randomsentence/">here</a> **to Get a Sentence Which I Like!**
 
