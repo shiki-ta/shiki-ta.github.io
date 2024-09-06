@@ -41,9 +41,8 @@ Email :zhangzhh2024 AT shanghaitech DOT edu DOT cn
 
 **Diffusion-based Reinforcement Learning via Q-weighted Variational Policy Optimization**
 
-Shutong Ding, Ke Hu, **Zhenhao Zhang**, Kan Ren, Weinan Zhang, Jingyi Yu, Jingya Wang, Ye Shi\*
+Shutong Ding, Ke Hu, **Zhenhao Zhang**, Kan Ren, Weinan Zhang, Jingyi Yu, Jingya Wang, Ye Shi\*[[**paper**]](/papers/QVPO.pdf) 
 
-[[**paper**]](https://arxiv.org/pdf/2405.16173) [[**project**]](https://dingsht.tech)
 
 </div>
 </div>
@@ -51,11 +50,11 @@ Shutong Ding, Ke Hu, **Zhenhao Zhang**, Kan Ren, Weinan Zhang, Jingyi Yu, Jingya
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted to Entropy</div><img src='images/publications/RSHMM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Robust Variable Selection for High-dimensional Regression with Missing Data and Measurement Errors**
+**Robust Variable Selection for High-dimensional Regression with Missing Data and Measurement Errors**[[**paper**]](papers/RSHMM.pdf) 
 
 **Zhenhao Zhang**,Yunquan Song\*
 
-[[**paper**]](https://zhangzhh.cn/papers/RSHMM.pdf) 
+
 </div>
 </div>
 
