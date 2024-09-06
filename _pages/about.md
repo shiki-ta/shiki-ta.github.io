@@ -51,7 +51,7 @@ Shutong Ding, Ke Hu, **Zhenhao Zhang**, Kan Ren, Weinan Zhang, Jingyi Yu, Jingya
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted to Entropy</div><img src='images/publications/RSHMM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Exponential squared loss based robust variable selection method for high dimensional linear regression with missing data and measurement errors**
+**Robust Variable Selection for High-dimensional Regression with Missing Data and Measurement Errors**
 
 **Zhenhao Zhang**,Yunquan Song\*
 
