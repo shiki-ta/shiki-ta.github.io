@@ -25,7 +25,7 @@ Email :zhangzhh2024 AT shanghaitech DOT edu DOT cn
 
 **Click** <a href="https://zhangzhh.cn/randomsentence/">here</a> **to Get a Sentence Which I Like!**
 
-
+**Click** <a href="https://zhangzhh.cn/moreaboutme/">here</a> **to Know more about me in Chinese!**
 
 
 
