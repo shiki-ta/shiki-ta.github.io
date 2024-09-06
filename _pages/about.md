@@ -36,7 +36,7 @@ Email :zhangzhh2024 AT shanghaitech DOT edu DOT cn
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv Pre</div><img src='images/publications/QVPO.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv</div><img src='images/publications/QVPO.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Diffusion-based Reinforcement Learning via Q-weighted Variational Policy Optimization**
