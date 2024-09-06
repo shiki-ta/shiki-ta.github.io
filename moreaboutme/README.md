@@ -52,6 +52,7 @@
 2021.9-2023.9我在中国石油大学（华东）数据科学系进行科研实习，从事统计学与机器学习相关研究，在Prof. Yunquan Song的指导下。实习期间我在老师的指导下完成了两项工作
 * 论文Transfer-learning-for-regression-under-differential-privacy的数据仿真实验部分。[[**code**]](https://github.com/Zhenhao-Zhang/Transfer-learning-for-regression-under-differential-privacy)
 * 论文Robust Variable Selection for High-dimensional Regression with Missing Data and Measurement Errors[[**paper**]](/papers/RSHMM/RSHMM.pdf) 。我们将它投稿到Entorpy杂志(JCR Q1),大修后获得了审稿人的一致好评却被编辑拒稿了（我的老师也感到疑惑）。
+
 #### 上海科技大学，VDI中心，YesAI Lab访问生
 2024.2-2024.9我在上海科技大学进行科研访问，从事强化学习相关的研究,在Prof. Ye Shi的指导下。我在访问期间受邀成为NeurIPS24和ICLR25的审稿人。访问期间我参与了工作Diffusion-based Reinforcement Learning via Q-weighted Variational Policy Optimization[[**paper**]](/papers/QVPO/QVPO.pdf) 
 。我们提出了一种新的基于扩散的在线 RL 算法，通过 Q 加权变分损失和扩散熵正则化进行策略优化，以利用扩散策略的表达性和探索能力。
