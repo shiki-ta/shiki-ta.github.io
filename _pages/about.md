@@ -45,7 +45,7 @@ Shutong Ding, Ke Hu, **Zhenhao Zhang**, Kan Ren, Weinan Zhang, Jingyi Yu, Jingya
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted to Entropy 2023</div><img src='papers/RSHMM/RSHMM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted to AI Communications</div><img src='papers/RSHMM/RSHMM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Robust Variable Selection for High-dimensional Regression with Missing Data and Measurement Errors**[[**paper**]](/papers/RSHMM/RSHMM.pdf) 
