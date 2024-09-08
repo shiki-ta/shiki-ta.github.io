@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Master student in ShanghaiTech University(YESAI Lab,VDI Center)under the supervision of Prof. Ye Shi, who is an expert in the field of Machine Learning.I get my B.S. Degree in China University of Petroleum(East China) under the supervision of Prof. Yunquan Song,who is an expert in the field of Statistics.
+I am a Master student in ShanghaiTech University under the supervision of Prof. Ye Shi, who is an expert in the field of Machine Learning.I get my B.S. Degree in China University of Petroleum(East China) under the supervision of Prof. Yunquan Song,who is an expert in the field of Statistics.
 
 My research interest includes Reinforcement Learning ,Computer Vision and Data Mining.Now I focus on the area of Embodied AI and Biomedical Models.
 
@@ -37,21 +37,31 @@ Email :zhangzhh2024 AT shanghaitech DOT edu DOT cn
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv'24</div><img src='papers/QVPO/QVPO.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Diffusion-based Reinforcement Learning via Q-weighted Variational Policy Optimization**[[**paper**]](/papers/QVPO/QVPO.pdf) 
-
-
+**Diffusion-based Reinforcement Learning via Q-weighted Variational Policy Optimization**
 
 Shutong Ding, Ke Hu, **Zhenhao Zhang**, Kan Ren, Weinan Zhang, Jingyi Yu, Jingya Wang, Ye Shi\*
+
+[[**paper**]](/papers/QVPO/QVPO.pdf) 
+
+**Area:**Reinforcement Learning
+
+**keyWords:**Diffusion Policy;Online RL;Model-Free RL
+
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted to Entorpy'23</div><img src='papers/RSHMM/RSHMM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Robust Variable Selection for High-dimensional Regression with Missing Data and Measurement Errors**[[**paper**]](/papers/RSHMM/RSHMM.pdf) 
+**Robust Variable Selection for High-dimensional Regression with Missing Data and Measurement Errors** 
 
 **Zhenhao Zhang**,Yunquan Song\*
 
+[[**paper**]](/papers/RSHMM/RSHMM.pdf)
+
+**Area:**Data Mining
+
+**KeyWords:**Biomedical Models;Exponential Squared Loss;Robust Variable Selection
 
 </div>
 </div>
