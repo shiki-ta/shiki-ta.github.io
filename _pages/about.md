@@ -23,7 +23,7 @@ My research interest includes Reinforcement Learning ,Computer Vision and Data M
 
 Email :zhangzhh2024 AT shanghaitech DOT edu DOT cn
 
-**Click** <a href="https://zhangzhh.cn/moreaboutme/">here</a> **to Know more about me in Chinese!**
+
 
 
 
