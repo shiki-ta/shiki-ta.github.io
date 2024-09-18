@@ -19,7 +19,7 @@ redirect_from:
 
 I am a Master student in ShanghaiTech University under the supervision of Prof. Ye Shi, who is an expert in the field of Machine Learning.I get my B.S. Degree in China University of Petroleum(East China) under the supervision of Prof. Yunquan Song,who is an expert in the field of Statistics.
 
-My research interest includes Reinforcement Learning ,Computer Vision and Data Mining.Now I focus on the area of Embodied AI and Biomedical Model.
+My research interest includes Embodied AI,Reinforcement Learning and Computer Vision.
 
 Email :zhangzhh2024 AT shanghaitech DOT edu DOT cn
 
@@ -43,9 +43,7 @@ Shutong Ding, Ke Hu, **Zhenhao Zhang**, Kan Ren, Weinan Zhang, Jingyi Yu, Jingya
 
 [[**paper**]](/papers/QVPO/QVPO.pdf) 
 
-**Area:**Reinforcement Learning
 
-**keyWords:**Diffusion Model;Online RL;Model-Free RL
 
 </div>
 </div>
@@ -59,9 +57,7 @@ Shutong Ding, Ke Hu, **Zhenhao Zhang**, Kan Ren, Weinan Zhang, Jingyi Yu, Jingya
 
 [[**paper**]](/papers/RSHMM/RSHMM.pdf)
 
-**Area:**Data Mining
 
-**Tags:**Biomedical Model;Statistics;Robust Variable Selection
 
 </div>
 </div>
