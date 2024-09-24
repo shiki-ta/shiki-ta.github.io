@@ -48,19 +48,6 @@ Shutong Ding, Ke Hu, **Zhenhao Zhang**, Kan Ren, Weinan Zhang, Jingyi Yu, Jingya
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Submitted to Entorpy'23</div><img src='papers/RSHMM/RSHMM.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Robust Variable Selection for High-dimensional Regression with Missing Data and Measurement Errors** 
-
-**Zhenhao Zhang**,Yunquan Song\*
-
-
-
-
-
-</div>
-</div>
 
 # 🎖 Honors and Awards
 - *2023.5* National Second Prize,China Robotics and Artificial Intelligence Competition(CRAIC)
