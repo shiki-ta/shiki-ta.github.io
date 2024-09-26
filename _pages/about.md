@@ -37,7 +37,7 @@ Email :zhangzhh2024 AT shanghaitech DOT edu DOT cn
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS'24</div><img src='papers/QVPO/QVPO.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Diffusion-based Reinforcement Learning via Q-weighted Variational Policy Optimization**[Accepted by **NeurIPS'24**(CCF A)]
+**Diffusion-based Reinforcement Learning via Q-weighted Variational Policy Optimization**,**NeurIPS'24**(CCF A)
 
 Shutong Ding, Ke Hu, **Zhenhao Zhang**, Kan Ren, Weinan Zhang, Jingyi Yu, Jingya Wang, Ye Shi\*
 
