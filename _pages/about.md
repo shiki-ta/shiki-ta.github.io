@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Master student in ShanghaiTech University under the supervision of Prof. Ye Shi, who is an expert in the field of Machine Learning.I get my B.S. Degree in China University of Petroleum(East China) under the supervision of Prof. Yunquan Song,who is an expert in the field of Statistics.
+I am a Master student in ShanghaiTech University under the supervision of Prof. Ye Shi, who is an expert in the field of ML&Optimization Application.I get my B.S. Degree in China University of Petroleum(East China) under the supervision of Prof. Yunquan Song,who is an expert in the field of High-dimensional Statistics.
 
 My research interest includes Embodied AI,Reinforcement Learning and Computer Vision.
 
