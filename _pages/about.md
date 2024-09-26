@@ -31,23 +31,32 @@ Email :zhangzhh2024 AT shanghaitech DOT edu DOT cn
 
 # 🔥 News
 
+- *2024.09*: One paper accepted by **NeurIPS'24**(CCF A)!
 
 # 📝 Publications 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv'24</div><img src='papers/QVPO/QVPO.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS'24</div><img src='papers/QVPO/QVPO.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Diffusion-based Reinforcement Learning via Q-weighted Variational Policy Optimization**
+**Diffusion-based Reinforcement Learning via Q-weighted Variational Policy Optimization**[Accepted by **NeurIPS'24**(CCF A)]
 
 Shutong Ding, Ke Hu, **Zhenhao Zhang**, Kan Ren, Weinan Zhang, Jingyi Yu, Jingya Wang, Ye Shi\*
 
-[[**paper**]](/papers/QVPO/QVPO.pdf) 
-
-
+[[**paper**]](/papers/QVPO/QVPO.pdf) [![arXiv](https://img.shields.io/badge/arXiv-2404.04363-b31b1b.svg?style=flat-square)](https://arxiv.org/pdf/2405.16173)
 
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review'23</div><img src='papers/RSHMM/RSHMM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Robust Variable Selection for High-dimensional Regression with Missing Data and Measurement Errors**
+
+**Zhenhao Zhang**, Yunquan Song\*
+
+[[**paper**]](/papers/RSHMM/RSHMM.pdf)
+
+</div>
+</div>
 
 # 🎖 Honors and Awards
 - *2023.5* National Second Prize,China Robotics and Artificial Intelligence Competition(CRAIC)
