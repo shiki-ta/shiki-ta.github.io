@@ -31,7 +31,7 @@ Email :zhangzhh2024 AT shanghaitech DOT edu DOT cn
 
 # 🔥 News
 
-- *2024.09*: One paper accepted by **NeurIPS'24**(CCF A)!
+- *2024.09*: One paper accepted by **NeurIPS'24(CCF A)!**
 
 # 📝 Publications 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS'24</div><img src='papers/QVPO/QVPO.png' alt="sym" width="100%"></div></div>
@@ -46,17 +46,7 @@ Shutong Ding, Ke Hu, **Zhenhao Zhang**, Kan Ren, Weinan Zhang, Jingyi Yu, Jingya
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review'23</div><img src='papers/RSHMM/RSHMM.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-**Robust Variable Selection for High-dimensional Regression with Missing Data and Measurement Errors**
-
-**Zhenhao Zhang**, Yunquan Song\*
-
-[[**paper**]](/papers/RSHMM/RSHMM.pdf)
-
-</div>
-</div>
 
 # 🎖 Honors and Awards
 - *2023.5* National Second Prize,China Robotics and Artificial Intelligence Competition(CRAIC)
