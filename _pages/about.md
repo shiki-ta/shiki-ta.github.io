@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Master student in ShanghaiTech University under the supervision of [Prof. Ye Shi](https://shiye21.github.io/#-group), who is an expert in the field of AI&Optimization Application.I get my B.E. Degree in China University of Petroleum.My research interest includes Embodied AI,Reinforcement Learning and Computer Vision.
+I am a Master student in VDI Center,MoE Key Laboratory,ShanghaiTech University under the supervision of [Prof. Ye Shi](https://shiye21.github.io), who is an expert in the field of AI&Optimization Application.I get my B.E. Degree in China University of Petroleum.My research interest includes Embodied AI,Reinforcement Learning and Computer Vision.
 
 Email :zhangzhh2024 AT shanghaitech DOT edu DOT cn
 
