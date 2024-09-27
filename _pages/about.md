@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Master student in ShanghaiTech University under the supervision of Prof. Ye Shi, who is an expert in the field of ML&Optimization Application.I get my B.E. Degree in China University of Petroleum(East China) under the supervision of Prof. Yunquan Song,who is an expert in the field of High-dimensional Statistics.
+I am a Master student in ShanghaiTech University under the supervision of [Prof. Ye Shi](https://shiye21.github.io/#-group), who is an expert in the field of AI&Optimization Application.I get my B.E. Degree in China University of Petroleum.
 
-My research interest includes Embodied AI,Reinforcement Learning and Computer Vision.
+Now I am Working in SIST,MoE Key Laboratory of Intelligent Perception and Human Machine Collaboration,VDI Center,YesAI Lab.My research interest includes Embodied AI,Reinforcement Learning and Computer Vision.
 
 Email :zhangzhh2024 AT shanghaitech DOT edu DOT cn
 
