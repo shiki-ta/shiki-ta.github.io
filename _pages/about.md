@@ -41,7 +41,7 @@ Email :zhangzhh2024 AT shanghaitech DOT edu DOT cn
 
 Shutong Ding, Ke Hu, **Zhenhao Zhang**, Kan Ren, Weinan Zhang, Jingyi Yu, Jingya Wang, Ye Shi\*
 
-[[**paper**]](/papers/QVPO/QVPO.pdf) [![arXiv](https://img.shields.io/badge/arXiv-2404.04363-b31b1b.svg?style=flat-square)](https://arxiv.org/pdf/2405.16173)
+[![arXiv](https://img.shields.io/badge/arXiv-2404.04363-b31b1b.svg?style=flat-square)](https://arxiv.org/pdf/2405.16173)[[**NeurIPS Page**]](https://neurips.cc/virtual/2024/poster/94963)[[**Paper**]](/papers/QVPO/QVPO.pdf)
 
 </div>
 </div>
@@ -62,7 +62,7 @@ Shutong Ding, Ke Hu, **Zhenhao Zhang**, Kan Ren, Weinan Zhang, Jingyi Yu, Jingya
 - *2023.5* National Second Prize,China Robotics and Artificial Intelligence Competition(CRAIC)
 - *2022.11* Bronze Medal(SOLO),Kaggle Featured Code Competition:Feedback Prize - English Language Learning
 - *2022.6* Finalist,America Mathematics Contest in Modeling(MCM),Top 1%.
-- *2021.4,*2023.4** Shandong First Prize(Group A),LanQiao Cup.
+- *2021.4,2023.4* Shandong First Prize(Group A),LanQiao Cup.
 
 # 📖 Educations
 - *2024.09 - now*,ShanghaiTech University
