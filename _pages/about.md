@@ -17,9 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Master student in ShanghaiTech University under the supervision of [Prof. Ye Shi](https://shiye21.github.io/#-group), who is an expert in the field of AI&Optimization Application.I get my B.E. Degree in China University of Petroleum.
-
-Now I am Working in SIST,MoE Key Laboratory of Intelligent Perception and Human Machine Collaboration,VDI Center,YesAI Lab.My research interest includes Embodied AI,Reinforcement Learning and Computer Vision.
+I am a Master student in ShanghaiTech University under the supervision of [Prof. Ye Shi](https://shiye21.github.io/#-group), who is an expert in the field of AI&Optimization Application.I get my B.E. Degree in China University of Petroleum.My research interest includes Embodied AI,Reinforcement Learning and Computer Vision.
 
 Email :zhangzhh2024 AT shanghaitech DOT edu DOT cn
 
@@ -54,8 +52,8 @@ Shutong Ding, Ke Hu, **Zhenhao Zhang**, Kan Ren, Weinan Zhang, Jingyi Yu, Jingya
 - *2021.4,2023.4* Shandong First Prize(Group A),LanQiao Cup.
 
 # 📖 Educations
-- *2024.09 - now*,ShanghaiTech University
-- *2020.09 - 2024.06*,China University of Petroleum (East China)
+- *2024.09 - now*,ShanghaiTech University,School of Information Science and Technology
+- *2020.09 - 2024.06*,China University of Petroleum,School of Computer Science and Technology
 
 # 💻 Interships
 - *2024.3-2024.9*,Visit Student,ShanghaiTech University
