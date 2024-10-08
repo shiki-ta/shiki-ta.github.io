@@ -42,7 +42,7 @@ Email :zhangzhh2024 AT shanghaitech DOT edu DOT cn
 
 Shutong Ding, Ke Hu, **Zhenhao Zhang**, Kan Ren, Weinan Zhang, Jingyi Yu, Jingya Wang, Ye Shi\*
 
-[![arXiv](https://img.shields.io/badge/arXiv-2405.16173-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2405.16173)[[**NeurIPS Poster**]](https://neurips.cc/virtual/2024/poster/94963)
+[![arXiv](https://img.shields.io/badge/arXiv-2405.16173-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2405.16173)[[**NeurIPS Poster**]](https://neurips.cc/virtual/2024/poster/94963)[[**Project Page**]](http://wadx2019.github.io/qvpo-webpage/)[[**Code**]](http://wadx2019.github.io/qvpo-webpage/)
 </div>
 </div>
 
@@ -64,3 +64,6 @@ Shutong Ding, Ke Hu, **Zhenhao Zhang**, Kan Ren, Weinan Zhang, Jingyi Yu, Jingya
 
 # 💼 Services
 - Reviewer:NeurIPS'24,ICLR'25,AISTATS'25
+
+# 🕴️ Friends
+- Waiting For Friend Links
