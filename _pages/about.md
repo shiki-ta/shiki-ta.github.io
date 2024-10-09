@@ -63,7 +63,10 @@ Shutong Ding, Ke Hu, **Zhenhao Zhang**, Kan Ren, Weinan Zhang, Jingyi Yu, Jingya
 
 
 # 💼 Services
-- Reviewer:NeurIPS'24,ICLR'25,AISTATS'25
+- Conference Reviewer:
+ - NeurIPS'24(CCF A,CAAI A,TH-CPL A)
+ - ICLR'25(CAAI A,TH-CPL A)
+ - AISTATS'25(TH-CPL B,CAAI C,CCF C)
 
 # 🕴️ Friends
 - Waiting For Friend Links
