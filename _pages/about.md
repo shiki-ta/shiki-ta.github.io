@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Master student in VDI Center,MoE Key Laboratory,ShanghaiTech University under the supervision of [Prof. Ye Shi](https://shiye21.github.io), who is an expert in the field of AI&Optimization Application.I get my B.E. Degree in China University of Petroleum.My research interest includes Embodied AI,Reinforcement Learning and Computer Vision.
+I am a Master student in VDI Center,MoE Key Laboratory,ShanghaiTech University under the supervision of [Prof. Ye Shi](https://shiye21.github.io), who is an expert in the field of AI&Optimization Application.I get my B.E. Degree in China University of Petroleum under the supervision of [Prof. Yunquan Song](https://sci.upc.edu.cn/2019/0513/c14558a206193/page.htm),who is an expert in the field of High-dim Statistics.My research interest includes Embodied AI,Reinforcement Learning and Computer Vision.
 
 I would like to publish some **A/B Class** papers in the list of [CCF](https://www.ccf.org.cn/Academic_Evaluation/By_category/),[CAAI](https://caai.cn/index.php?s=/home/article/detail/id/4024.html),[TH-CPL](https://www.baidu.com/link?url=TBkq91CwqdwHP-zA0fdEb40nkk-qUR-umnebHZkMZjxODqG8gXqJSGSFi-YM-Iu7YDvl8G9p4YeczQNvvx-FYa&wd=&eqid=c3ef876a001028e40000000367066803),[ShanghaiTech VDI](https://www.baidu.com/link?url=gRsryPBylPaUy1dRAC--7MdX3u59zsA6s2E1ssCQ-B4SPgKdyLqUM2DFppSP_fbbev4oSWnUtF220qtSI1Wed4TfWtWt6o1wlaJD_DBTGeemMlOskCJ8w0mY-nFrjUkFMdbJXVHou92YZuV6t2qKBR9RfIy7a-dWbbm3zpZDwjHYUkMYBke4FDJ7LzmjA-AwvA-E0hvW6r_CVANRdoGHN5cIbPvaX1uQT3harLSsMLzAsk0m2xOFwfKlnBBGruCSs2gm7qpf49VVox_2-OYkda&wd=&eqid=bc3c27d4001b3cb20000000367066a6f).
 
