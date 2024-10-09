@@ -19,7 +19,7 @@ redirect_from:
 
 I am a Master student in VDI Center,MoE Key Laboratory,ShanghaiTech University under the supervision of [Prof. Ye Shi](https://shiye21.github.io), who is an expert in the field of AI&Optimization Application.I get my B.E. Degree in China University of Petroleum.My research interest includes Embodied AI,Reinforcement Learning and Computer Vision.
 
-I would like to publish some **A/B Class** papers in the list of [CCF](),[CAAI](),[TH-CPL]().
+I would like to publish some **A/B Class** papers in the list of [CCF](https://www.ccf.org.cn/Academic_Evaluation/By_category/),[CAAI](https://caai.cn/index.php?s=/home/article/detail/id/4024.html),[TH-CPL](https://www.baidu.com/link?url=TBkq91CwqdwHP-zA0fdEb40nkk-qUR-umnebHZkMZjxODqG8gXqJSGSFi-YM-Iu7YDvl8G9p4YeczQNvvx-FYa&wd=&eqid=c3ef876a001028e40000000367066803).
 
 Email :zhangzhh2024 AT shanghaitech DOT edu DOT cn
 
