@@ -31,10 +31,10 @@ Email :zhangzhh2024 AT shanghaitech DOT edu DOT cn
 
 # 🔥 News
 
-- *2024.10*: I was invited to server as a Reviewer by **AISTATS'25(CAAI B)**!
-- *2024.09*: One paper accepted by **NeurIPS'24(CCF A)**!
-- *2024.08*: I was invited to server as a Reviewer by **ICLR'25(CAAI A)**!
-- *2024.05*: I was invited to server as a Reviewer by **NeurIPS'24(CCF A)**!
+- *2024.10* I was invited to server as a Reviewer by **AISTATS'25(CAAI B)**!
+- *2024.09* One paper accepted by **NeurIPS'24(CCF A)**!
+- *2024.08* I was invited to server as a Reviewer by **ICLR'25(CAAI A)**!
+- *2024.05* I was invited to server as a Reviewer by **NeurIPS'24(CCF A)**!
 
 # 📝 Publications 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS'24</div><img src='papers/QVPO/QVPO.png' alt="sym" width="100%"></div></div>
