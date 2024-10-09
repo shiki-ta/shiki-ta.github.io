@@ -57,11 +57,11 @@ Shutong Ding, Ke Hu, **Zhenhao Zhang**, Kan Ren, Weinan Zhang, Jingyi Yu, Jingya
 - *2021.4,2023.4* Shandong First Prize(Group A),LanQiao Cup.
 
 # 📖 Educations
-- *2024.09 - now*,ShanghaiTech University,School of Information Science and Technology
-- *2020.09 - 2024.06*,China University of Petroleum,School of Computer Science and Technology
+- *2024.09 - now* ShanghaiTech University,School of Information Science and Technology
+- *2020.09 - 2024.06* China University of Petroleum,School of Computer Science and Technology
 
 # 💻 Interships
-- *2024.3-2024.9*,Visiting Student,ShanghaiTech University
+- *2024.3-2024.9* Visiting Student,ShanghaiTech University
 
 
 # 💼 Services
