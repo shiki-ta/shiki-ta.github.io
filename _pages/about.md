@@ -64,9 +64,9 @@ Shutong Ding, Ke Hu, **Zhenhao Zhang**, Kan Ren, Weinan Zhang, Jingyi Yu, Jingya
 
 # 💼 Services
 * Conference Reviewer:
- * Neural Information Processing Systems(NeurIPS) 2024(CCF A,CAAI A,TH-CPL A)
- * International Conference on Learning Representations(ICLR) 2025(CAAI A,TH-CPL A)
- * International Conference on Artificial Intelligence and Statistics(AISTATS) 2025(CAAI B,TH-CPL B,CCF C)
+    * Neural Information Processing Systems(NeurIPS) 2024(CCF A,CAAI A,TH-CPL A)
+    * International Conference on Learning Representations(ICLR) 2025(CAAI A,TH-CPL A)
+    * International Conference on Artificial Intelligence and Statistics(AISTATS) 2025(CAAI B,TH-CPL B,CCF C)
 
 # 🕴️ Friends
 - Waiting For Friend Links
