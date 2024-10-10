@@ -40,7 +40,7 @@ Email :zhangzhh2024 AT shanghaitech DOT edu DOT cn
 # 🎓 High-level Paper List
 - [CCF](https://www.ccf.org.cn/Academic_Evaluation/By_category/):Which Include papers recommended by **C**hina **C**omputer **F**ederation.
 - [CAAI](https://caai.cn/index.php?s=/home/article/detail/id/4024.html):Which Include papers recommended by **C**hinese **A**ssociation for **A**rtificial **I**ntelligence.
-- [TH-CPL](https://numbda.cs.tsinghua.edu.cn/%7Eyuwj/TH-CPL.pdf):Which Include papers recommended by **T**sing**h**ua University,Department of **C**omputer Science.
+- [TH-CPL](https://numbda.cs.tsinghua.edu.cn/%7Eyuwj/TH-CPL.pdf):Which Include papers recommended by **T**sing**H**ua University,Department of **C**omputer Science.
 - [ShanghaiTech VDI](https://faculty.sist.shanghaitech.edu.cn/office/Academics/file/the%20basic%20requirements%20of%20research%20achievement%20for%20Grads%20(Appendix-Journal%20%26%20Conf%20List)%20-2022.pdf):Which Include papers recommended by **ShanghaiTech** University,**VDI** Center.
 
 # 📝 Publications 
