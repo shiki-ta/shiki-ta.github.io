@@ -76,3 +76,9 @@ Shutong Ding, Ke Hu, **Zhenhao Zhang**, Kan Ren, Weinan Zhang, Jingyi Yu, Jingya
   * **NeurIPS(CCF A)**:2024
   * **ICLR(CAAI A)**:2025
   * **AISTATS(CAAI B)**:2025
+
+# ⭐ Hobby
+- **Games**:
+- **Sport**:
+- **Movie**:
+- **Songs**:Jay Zhou,Eason Chen
