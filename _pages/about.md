@@ -78,15 +78,10 @@ Shutong Ding, Ke Hu, **Zhenhao Zhang**, Kan Ren, Weinan Zhang, Jingyi Yu, Jingya
   * **AISTATS(CAAI B)**:2025
 
 # ⭐ Hobby
-* **Reading**:
-  * 雪山飞狐
-  * 陆小凤传奇
-  * 哈利.波特
-
 * **Songs**
   * Some Thing Just Like This
-  * 海阔天空
-  * 在银河中孤独摇摆
+  * Boundless Oceans, Vast Skies(海阔天空)
+  * Sway to My Beat in Cosmos(在银河中孤独摇摆)
 * **Movies**:
   * Curse of the Golden Flower(满城尽带黄金甲)
   * The Smiling, Proud Wanderer(笑傲江湖)
@@ -96,6 +91,6 @@ Shutong Ding, Ke Hu, **Zhenhao Zhang**, Kan Ren, Weinan Zhang, Jingyi Yu, Jingya
   * Eason Chen(陈奕迅)
   * Leslie Cheung(张国荣)
 * **Virtual Character**
-  * 知更鸟
-  * 卡蜜尔
-  * 亚托克斯
+  * Robin@(知更鸟@崩坏:星穹铁道)
+  * Camille@LOL(卡蜜尔@英雄联盟)
+  * Aatrox@LOL(亚托克斯@英雄联盟)
