@@ -32,10 +32,10 @@ Email :zhangzhh2024 AT shanghaitech DOT edu DOT cn
 
 # 🔥 News
 
-- *2024.10* I was invited to server as a Reviewer by **AISTATS'25(CAAI B)**!
-- *2024.09* One paper accepted by **NeurIPS'24(CCF A)**!
-- *2024.08* I was invited to server as a Reviewer by **ICLR'25(CAAI A)**!
-- *2024.05* I was invited to server as a Reviewer by **NeurIPS'24(CCF A)**!
+- *2024.10*:I was invited to server as a Reviewer by **AISTATS'25(CAAI B)**!
+- *2024.09*:One paper accepted by **NeurIPS'24(CCF A)**!
+- *2024.08*:I was invited to server as a Reviewer by **ICLR'25(CAAI A)**!
+- *2024.05*:I was invited to server as a Reviewer by **NeurIPS'24(CCF A)**!
 
 # 🎓 High-level Paper List
 - [CCF](https://www.ccf.org.cn/Academic_Evaluation/By_category/):Which Include papers recommended by **C**hina **C**omputer **F**ederation.
