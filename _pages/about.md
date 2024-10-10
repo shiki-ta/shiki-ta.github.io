@@ -24,8 +24,7 @@ My research interest includes Embodied AI, Computer Vision and Reinforcement Lea
 
 Email :zhangzhh2024 AT shanghaitech DOT edu DOT cn
 
-
-
+Click [here](https://zhenhao-zhang.github.io/cn/) to visit my webpage in Chinese.
 
 
 
