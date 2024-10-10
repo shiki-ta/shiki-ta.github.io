@@ -17,9 +17,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Master student in [VDI Center](https://vdi.sist.shanghaitech.edu.cn), MoE Key Laboratory, [ShanghaiTech University](https://www.shanghaitech.edu.cn) under the supervision of [Prof. Ye Shi](https://shiye21.github.io), who is an expert in the field of AI&Optimization Application.I get B.E. Degree in [China University of Petroleum](https://upc.edu.cn) under the supervision of [Prof. Yunquan Song](https://sci.upc.edu.cn/2019/0513/c14558a206193/page.htm), who is an expert in the field of High-Dimensional Statistic.My research interest includes Embodied AI, Computer Vision and Reinforcement Learning.
+I am a Master student in VDI Center, MoE Key Laboratory, [ShanghaiTech University](https://www.shanghaitech.edu.cn) under the supervision of [Prof. Ye Shi](https://shiye21.github.io), who is an expert in the field of AI&Optimization Application.I get B.E. Degree in [China University of Petroleum](https://upc.edu.cn) under the supervision of [Prof. Yunquan Song](https://sci.upc.edu.cn/2019/0513/c14558a206193/page.htm), who is an expert in the field of High-Dimensional Statistic.My research interest includes Embodied AI, Computer Vision and Reinforcement Learning.
 
-I would like to **Publish** or **Serve as Program Member** in the **A/B Class** papers in the list of [CCF](https://www.ccf.org.cn/Academic_Evaluation/By_category/) or [CAAI](https://caai.cn/index.php?s=/home/article/detail/id/4024.html) or [TH-CPL](https://www.baidu.com/link?url=TBkq91CwqdwHP-zA0fdEb40nkk-qUR-umnebHZkMZjxODqG8gXqJSGSFi-YM-Iu7YDvl8G9p4YeczQNvvx-FYa&wd=&eqid=c3ef876a001028e40000000367066803) or [ShanghaiTech VDI](https://www.baidu.com/link?url=gRsryPBylPaUy1dRAC--7MdX3u59zsA6s2E1ssCQ-B4SPgKdyLqUM2DFppSP_fbbev4oSWnUtF220qtSI1Wed4TfWtWt6o1wlaJD_DBTGeemMlOskCJ8w0mY-nFrjUkFMdbJXVHou92YZuV6t2qKBR9RfIy7a-dWbbm3zpZDwjHYUkMYBke4FDJ7LzmjA-AwvA-E0hvW6r_CVANRdoGHN5cIbPvaX1uQT3harLSsMLzAsk0m2xOFwfKlnBBGruCSs2gm7qpf49VVox_2-OYkda&wd=&eqid=bc3c27d4001b3cb20000000367066a6f).Feel **Free** to contact me if you have any questions!
+I would like to **Publish** or **Serve as Program Member** in the **A/B Class** papers of the High-level Paper List.Feel **Free** to contact me if you have any questions!
+
 
 Email :zhangzhh2024 AT shanghaitech DOT edu DOT cn
 
@@ -36,6 +37,12 @@ Email :zhangzhh2024 AT shanghaitech DOT edu DOT cn
 - *2024.08* I was invited to server as a Reviewer by **ICLR'25(CAAI A)**!
 - *2024.05* I was invited to server as a Reviewer by **NeurIPS'24(CCF A)**!
 
+# 🎓 High-level Paper List
+- [CCF](https://www.ccf.org.cn/Academic_Evaluation/By_category/):Which Include papers recommended by **C**hina **C**omputer **F**ederation.
+- [CAAI](https://caai.cn/index.php?s=/home/article/detail/id/4024.html):Which Include papers recommended by **C**hinese **A**ssociation for **A**rtificial **I**ntelligence.
+- [TH-CPL](https://numbda.cs.tsinghua.edu.cn/%7Eyuwj/TH-CPL.pdf):Which Include papers recommended by **T**sing**h**ua University,Department of **C**omputer Science.
+- [ShanghaiTech VDI](https://faculty.sist.shanghaitech.edu.cn/office/Academics/file/the%20basic%20requirements%20of%20research%20achievement%20for%20Grads%20(Appendix-Journal%20%26%20Conf%20List)%20-2022.pdf):Which Include papers recommended by **ShanghaiTech** University,**VDI** Center.
+
 # 📝 Publications 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS'24</div><img src='papers/QVPO/QVPO.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -51,18 +58,21 @@ Shutong Ding, Ke Hu, **Zhenhao Zhang**, Kan Ren, Weinan Zhang, Jingyi Yu, Jingya
 
 
 # 🎖 Honors and Awards
-- *2023.5* National Second Prize,China Robotics and Artificial Intelligence Competition(CRAIC)
-- *2022.11* Bronze Medal(SOLO),Kaggle Featured Code Competition:Feedback Prize - English Language Learning
-- *2022.6* Finalist,America Mathematics Contest in Modeling(MCM),Top 1%.
-- *2021.4,2023.4* Shandong First Prize(Group A),LanQiao Cup.
+- *2023.5*,National Second Prize,China Robotics and Artificial Intelligence Competition(CRAIC)
+- *2022.11*,Bronze Medal(SOLO),Kaggle Featured Code Competition:Feedback Prize - English Language Learning
+- *2022.6*,Finalist,America Mathematics Contest in Modeling(MCM),Top 1%.
+- *2021.4,2023.4*,Shandong First Prize(Group A),LanQiao Cup.
 
 # 📖 Educations
-- *2024.09 - now* ShanghaiTech University,School of Information Science and Technology
-- *2020.09 - 2024.06* China University of Petroleum,School of Computer Science and Technology
+- *2024.09 - now*,ShanghaiTech University,School of Information Science and Technology
+- *2020.09 - 2024.06*,China University of Petroleum,School of Computer Science and Technology
 
 # 💻 Interships
-- *2024.3-2024.9* Visiting Student,ShanghaiTech University
+- *2024.3-2024.9*,Visiting Student,ShanghaiTech University
 
 
 # 💼 Services
-- Conference Reviewer:NeurIPS'24(CCF A),ICLR'25(CAAI A),AISTATS'25(CAAI B)
+* Conference Reviewer
+  * **NeurIPS(CCF A)**:2024
+  * **ICLR(CAAI A)**:2025
+  * **AISTATS(CAAI B)**:2025
