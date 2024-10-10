@@ -91,7 +91,7 @@ Shutong Ding, Ke Hu, **Zhenhao Zhang**, Kan Ren, Weinan Zhang, Jingyi Yu, Jingya
   * Curse of the Golden Flower(满城尽带黄金甲)
   * The Smiling, Proud Wanderer(笑傲江湖)
   * Dragon Gate Inn(龙门客栈)
-* **Stars**:
+* **Famous Stars**:
   * Jay Zhou(周杰伦)
   * Eason Chen(陈奕迅)
   * Leslie Cheung(张国荣)
