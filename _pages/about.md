@@ -19,7 +19,7 @@ redirect_from:
 
 I am a Master student in VDI Center, MoE Key Laboratory,ShanghaiTech University under the supervision of [Prof. Ye Shi](https://shiye21.github.io), who is an expert in the field of AI&Optimization Application.I get B.E. Degree in Department of Computer Science,China University of Petroleum under the supervision of [Prof. Yunquan Song](https://sci.upc.edu.cn/2019/0513/c14558a206193/page.htm), who is an expert in the field of High-Dimensional Statistic.
 
-My research interest includes Embodied AI, Computer Vision and Reinforcement Learning.I would like to **Publish** or **Serve as Program Member** in the **A/B Class** papers of the High-level Paper List.Feel **Free** to contact me if you have any questions!
+My research interest includes Embodied AI, Computer Vision and Reinforcement Learning.I would like to **Publish** or **Serve as Program Member** in the **A/B Class** papers of the **High-level Paper List**.Feel **Free** to contact me if you have any questions!
 
 
 Email :zhangzhh2024 AT shanghaitech DOT edu DOT cn
