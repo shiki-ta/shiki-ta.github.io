@@ -79,9 +79,9 @@ Shutong Ding, Ke Hu, **Zhenhao Zhang**, Kan Ren, Weinan Zhang, Jingyi Yu, Jingya
 
 # ⭐ Hobby
 * **Songs**
-  * Some Thing Just Like This
-  * Boundless Oceans, Vast Skies(海阔天空)
-  * Sway to My Beat in Cosmos(在银河中孤独摇摆)
+  * Sorrow Is Meaningless,Eason Chen(富士山下,陈奕迅)
+  * Boundless Oceans, Vast Skies,Beyond(海阔天空,Beyond)
+  * Sway to My Beat in Cosmos,Robin(在银河中孤独摇摆,知更鸟)
 * **Movies**:
   * Curse of the Golden Flower(满城尽带黄金甲)
   * The Smiling, Proud Wanderer(笑傲江湖)
@@ -91,6 +91,6 @@ Shutong Ding, Ke Hu, **Zhenhao Zhang**, Kan Ren, Weinan Zhang, Jingyi Yu, Jingya
   * Eason Chen(陈奕迅)
   * Leslie Cheung(张国荣)
 * **Virtual Character**
-  * Robin@(知更鸟@崩坏:星穹铁道)
-  * Camille@LOL(卡蜜尔@英雄联盟)
-  * Aatrox@LOL(亚托克斯@英雄联盟)
+  * Robin,Honkai: Star Rail(知更鸟,崩坏:星穹铁道)
+  * Camille,LOL(卡蜜尔,英雄联盟)
+  * Aatrox,LOL(亚托克斯,英雄联盟)
