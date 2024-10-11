@@ -24,7 +24,7 @@ My research interest includes Embodied AI, Computer Vision and Reinforcement Lea
 
 Email :zhangzhh2024 AT shanghaitech DOT edu DOT cn
 
-Click [here](https://zhenhao-zhang.github.io/cn/) to visit my webpage in Chinese.
+Click [here](https://zhenhao-zhang.github.io/cn/) to visit my webpage in Chinese and More Details.
 
 
 
@@ -76,20 +76,4 @@ Shutong Ding, Ke Hu, **Zhenhao Zhang**, Kan Ren, Weinan Zhang, Jingyi Yu, Jingya
   * **ICLR(CAAI A)**:2025
   * **AISTATS(CAAI B)**:2025
 
-# ⭐ Hobby
-* **Songs**
-  * Sorrow Is Meaningless,Eason Chen(富士山下,陈奕迅)
-  * Boundless Oceans, Vast Skies,Beyond(海阔天空,Beyond)
-  * Sway to My Beat in Cosmos,Robin(在银河中孤独摇摆,知更鸟)
-* **Movies**:
-  * Curse of the Golden Flower(满城尽带黄金甲)
-  * The Smiling, Proud Wanderer(笑傲江湖)
-  * Dragon Gate Inn(龙门客栈)
-* **Famous Stars**:
-  * Jay Zhou(周杰伦)
-  * Eason Chen(陈奕迅)
-  * Leslie Cheung(张国荣)
-* **Virtual Character**
-  * Robin,Honkai: Star Rail(知更鸟,崩坏:星穹铁道)
-  * Camille,LOL(卡蜜尔,英雄联盟)
-  * Aatrox,LOL(亚托克斯,英雄联盟)
+
