@@ -19,12 +19,9 @@ redirect_from:
 
 I am a Master student in VDI Center, MoE Key Laboratory of Intelligent Perception and Human Machine Collaboration,ShanghaiTech University under the supervision of [Prof. Ye Shi](https://shiye21.github.io), who is an expert in the field of AI&Optimization Application.I get B.E. Degree in Department of Computer Science,China University of Petroleum under the supervision of [Prof. Yunquan Song](https://sci.upc.edu.cn/2019/0513/c14558a206193/page.htm), who is an expert in the field of High-Dimensional Statistic.
 
-My research interest includes Embodied AI, Computer Vision and Reinforcement Learning.I would like to **Publish** or **Serve as Program Member** in the **A/B Class** papers of the **High-level Paper List**.Feel **Free** to contact me if you have any questions!
-
-
 Email :zhangzhh2024 AT shanghaitech DOT edu DOT cn
 
-Click [here](https://zhenhao-zhang.github.io/cn/) to visit my webpage in Chinese.
+Click [here](https://zhenhao-zhang.github.io/cn/) to visit my webpage in Chinese and More Details.
 
 
 
@@ -35,12 +32,6 @@ Click [here](https://zhenhao-zhang.github.io/cn/) to visit my webpage in Chinese
 - *2024.09*:One paper accepted by **NeurIPS'24(CCF A)**!
 - *2024.08*:I was invited to server as a Reviewer by **ICLR'25(CAAI A)**!
 - *2024.05*:I was invited to server as a Reviewer by **NeurIPS'24(CCF A)**!
-
-# 🎓 High-level Paper List
-- [CCF](https://www.ccf.org.cn/Academic_Evaluation/By_category/):Which Include papers recommended by **C**hina **C**omputer **F**ederation.
-- [CAAI](https://caai.cn/index.php?s=/home/article/detail/id/4024.html):Which Include papers recommended by **C**hinese **A**ssociation for **A**rtificial **I**ntelligence.
-- [TH-CPL](https://numbda.cs.tsinghua.edu.cn/%7Eyuwj/TH-CPL.pdf):Which Include papers recommended by **T**sing**H**ua University,Department of **C**omputer Science.
-- [ShanghaiTech VDI](https://faculty.sist.shanghaitech.edu.cn/office/Academics/file/the%20basic%20requirements%20of%20research%20achievement%20for%20Grads%20(Appendix-Journal%20%26%20Conf%20List)%20-2022.pdf):Which Include papers recommended by **ShanghaiTech** University,**VDI** Center.
 
 # 📝 Publications 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS'24</div><img src='papers/QVPO/QVPO.png' alt="sym" width="100%"></div></div>
@@ -72,24 +63,8 @@ Shutong Ding, Ke Hu, **Zhenhao Zhang**, Kan Ren, Weinan Zhang, Jingyi Yu, Jingya
 
 # 💼 Services
 * Conference Reviewer
-  * **NeurIPS(CCF A)**:2024
-  * **ICLR(CAAI A)**:2025
-  * **AISTATS(CAAI B)**:2025
+  * Neural Information Processing Systems,**NeurIPS(CCF A)**:2024
+  * International Conference on Learning Representations,**ICLR(CAAI A)**:2025
+  * International Conference on Artificial Intelligence and Statistics,**AISTATS(CAAI B)**:2025
 
-# ⭐ Hobby
-* **Songs**
-  * Sorrow Is Meaningless,Eason Chen(富士山下,陈奕迅)
-  * Boundless Oceans, Vast Skies,Beyond(海阔天空,Beyond)
-  * Sway to My Beat in Cosmos,Robin(在银河中孤独摇摆,知更鸟)
-* **Movies**:
-  * Curse of the Golden Flower(满城尽带黄金甲)
-  * The Smiling, Proud Wanderer(笑傲江湖)
-  * Dragon Gate Inn(龙门客栈)
-* **Famous Stars**:
-  * Jay Zhou(周杰伦)
-  * Eason Chen(陈奕迅)
-  * Leslie Cheung(张国荣)
-* **Virtual Character**
-  * Robin,Honkai: Star Rail(知更鸟,崩坏:星穹铁道)
-  * Camille,LOL(卡蜜尔,英雄联盟)
-  * Aatrox,LOL(亚托克斯,英雄联盟)
+
