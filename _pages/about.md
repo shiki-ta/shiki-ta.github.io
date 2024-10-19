@@ -17,11 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Master student in VDI Center,MoE Key Laboratory of Intelligent Perception and Human Machine Collaboration,ShanghaiTech University under the supervision of [Prof. Ye Shi](https://shiye21.github.io),who is an expert in the field of AI&Optimization Application.I get B.E. Degree in Department of Computer Science,China University of Petroleum under the supervision of [Prof. Yunquan Song](https://sci.upc.edu.cn/2019/0513/c14558a206193/page.htm), who is an expert in the field of High-Dimensional Statistic.
+I am a Master student in VDI Center,MoE Key Laboratory of Intelligent Perception and Human Machine Collaboration,ShanghaiTech University under the supervision of [Prof. Ye Shi](https://shiye21.github.io),who is an expert in the field of Machine Learning.I get B.E. Degree in Department of Computer Science,China University of Petroleum under the supervision of [Prof. Yunquan Song](https://sci.upc.edu.cn/2019/0513/c14558a206193/page.htm), who is an expert in the field of High-Dimensional Statistic.
 
 Email :zhangzhh2024 AT shanghaitech DOT edu DOT cn
 
-Click [here](https://zhenhao-zhang.github.io/cn/) to visit my webpage in Chinese and More Details.
+
 
 
 
