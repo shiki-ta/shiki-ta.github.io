@@ -94,7 +94,8 @@ This project is supported by the Intelligent Vehicle Laboratory of China Univers
 
 **Zhenhao Zhang#**,Yifei Chen#,Xiaoyan Deng#
 
-[**Resume**](http://zhenhao-zhang.github.io/projects/iron/iron.pdf)
+[[**Resume**]](http://zhenhao-zhang.github.io/projects/iron/iron.pdf)
+
 This project is supported by Iron Man Technology's school enterprise cooperation.
 
 
