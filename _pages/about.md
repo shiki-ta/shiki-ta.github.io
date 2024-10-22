@@ -79,7 +79,7 @@ Shutong Ding, Ke Hu, **Zhenhao Zhang**, Kan Ren, Weinan Zhang, Jingyi Yu, Jingya
 
 **Automatic Seeking Trolley Based on edge computing Device OPENMV**
 
-**Zhenhao Zhang**
+Jiahao Liu#,Yongqiang Lv#,Xinyu Wan#,Yiqi Feng#,**Zhenhao Zhang**
 
 This project is supported by the Intelligent Vehicle Laboratory of China University of Petroleum.
 
