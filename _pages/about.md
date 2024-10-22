@@ -48,6 +48,16 @@ Shutong Ding, Ke Hu, **Zhenhao Zhang**, Kan Ren, Weinan Zhang, Jingyi Yu, Jingya
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv Preprint'23</div><img src='papers/QVPO/QVPO.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Robust Variable Selection for High-dimensional Regression with Missing Data and Measurement Errors**
+
+**Zhenhao Zhang**,Yunquan Song\*
+
+[[**Paper**]](http://zhenhao-zhang.github.io/NOTAPPLY/notapply.pdf)[[**Project Page**]](http://zhenhao-zhang.github.io/NOTAPPLY/notapply.pdf)[[**Code**]](http://zhenhao-zhang.github.io/NOTAPPLY/notapply.pdf)
+</div>
+</div>
 
 # 🎖 Honors and Awards
 - *2023.5*,National Second Prize,China Robotics and Artificial Intelligence Competition(CRAIC)
