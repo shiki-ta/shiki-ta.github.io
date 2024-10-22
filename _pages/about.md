@@ -83,7 +83,7 @@ Shutong Ding, Ke Hu, **Zhenhao Zhang**, Kan Ren, Weinan Zhang, Jingyi Yu, Jingya
 
 This project is supported by the Intelligent Vehicle Laboratory of China University of Petroleum.
 
-[[**Project Page**]](http://zhenhao-zhang.github.io/NOTAPPLY/notapply.pdf)[[**Code**]](http://zhenhao-zhang.github.io/NOTAPPLY/notapply.pdf)
+
 </div>
 </div>
 
@@ -96,7 +96,7 @@ This project is supported by the Intelligent Vehicle Laboratory of China Univers
 
 This project is supported by Iron Man Technology's school enterprise cooperation.
 
-[[**Project Page**]](http://zhenhao-zhang.github.io/NOTAPPLY/notapply.pdf)[[**Code**]](http://zhenhao-zhang.github.io/NOTAPPLY/notapply.pdf)
+
 </div>
 </div>
 
