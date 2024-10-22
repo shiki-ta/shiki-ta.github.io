@@ -67,7 +67,7 @@ Shutong Ding, Ke Hu, **Zhenhao Zhang**, Kan Ren, Weinan Zhang, Jingyi Yu, Jingya
 
 **PreMBVD:Pretrain Multi-task Biomedical Visual Models Under Differential Privacy**
 
-**Zhenhao Zhang#**, Cui Lei#,Songtao Zhang
+**Zhenhao Zhang#**, Lei Cui#,Songtao Zhang
 
 
 </div>
