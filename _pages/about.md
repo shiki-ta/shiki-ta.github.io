@@ -56,7 +56,8 @@ Shutong Ding, Ke Hu, **Zhenhao Zhang**, Kan Ren, Weinan Zhang, Jingyi Yu, Jingya
 
 **Zhenhao Zhang**,Yunquan Song\*
 
-[[**Paper**]](http://zhenhao-zhang.github.io/NOTAPPLY/notapply.pdf)
+[[**Paper**]](http://zhenhao-zhang.github.io/NOTAPPLY/notapply.pdf)[[**Project Page**]](http://zhenhao-zhang.github.io/NOTAPPLY/notapply.pdf)[[**Code**]](http://zhenhao-zhang.github.io/NOTAPPLY/notapply.pdf)
+</div>
 </div>
 
 # 🌟 Projects 
@@ -94,6 +95,7 @@ This project is supported by the Intelligent Vehicle Laboratory of China Univers
 **Zhenhao Zhang#**,Yifei Chen#,Xiaoyan Deng#
 
 This project is supported by Iron Man Technology's school enterprise cooperation.
+
 
 </div>
 </div>
