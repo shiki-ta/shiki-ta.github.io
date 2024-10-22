@@ -19,7 +19,7 @@ redirect_from:
 
 I am a Master student in VDI Center,MoE Key Laboratory of Intelligent Perception and Human Machine Collaboration,ShanghaiTech University under the supervision of [Prof. Ye Shi](https://shiye21.github.io),who is an expert in the field of Machine Learning.I get B.E. Degree in Department of Computer Science,China University of Petroleum under the supervision of [Prof. Yunquan Song](https://sci.upc.edu.cn/2019/0513/c14558a206193/page.htm), who is an expert in the field of High-Dimensional Statistic.
 
-My Research interest include Embodied AI,Human-Centric Perception(Based on Computer Vision) and Control(Based on Reinforcement Learning).
+My Research interest include Embodied AI,Human-Centric Perception(Based on Computer Vision) and Control(Based on Reinforcement Learning).Click [**Here**](https://www.overleaf.com/read/jfqtwwjqvfcp#d62a26) to visit my CV.
 
 Email :zhangzhh2024 AT shanghaitech DOT edu DOT cn
 
@@ -36,6 +36,7 @@ Email :zhangzhh2024 AT shanghaitech DOT edu DOT cn
 - *2024.05*:I was invited to server as a Reviewer by **NeurIPS'24(CCF A)**!
 
 # 📝 Publications 
+#:Equal Contribution *:Corresponding Author
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS'24</div><img src='papers/QVPO/QVPO.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -48,7 +49,7 @@ Shutong Ding, Ke Hu, **Zhenhao Zhang**, Kan Ren, Weinan Zhang, Jingyi Yu, Jingya
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv Preprint'23</div><img src='papers/QVPO/QVPO.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv Preprint'23</div><img src='papers/RSHMM/RSHMM.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Robust Variable Selection for High-dimensional Regression with Missing Data and Measurement Errors**
@@ -56,6 +57,46 @@ Shutong Ding, Ke Hu, **Zhenhao Zhang**, Kan Ren, Weinan Zhang, Jingyi Yu, Jingya
 **Zhenhao Zhang**,Yunquan Song\*
 
 [[**Paper**]](http://zhenhao-zhang.github.io/NOTAPPLY/notapply.pdf)[[**Project Page**]](http://zhenhao-zhang.github.io/NOTAPPLY/notapply.pdf)[[**Code**]](http://zhenhao-zhang.github.io/NOTAPPLY/notapply.pdf)
+</div>
+</div>
+
+# 🌟 Projects 
+#:Equal Contribution
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Project'24</div><img src='projects/prembvd/prembvd.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**PreMBVD:Pretrain Multi-task Biomedical Visual Models Under Differential Privacy**
+
+**Zhenhao Zhang#**, Cui Lei#,Songtao Zhang
+
+[[**Project Page**]](http://zhenhao-zhang.github.io/NOTAPPLY/notapply.pdf)[[**Code**]](http://zhenhao-zhang.github.io/NOTAPPLY/notapply.pdf)
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Project'23</div><img src='projects/auto/auto.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Automatic Seeking Trolley Based on edge computing Device OPENMV**
+
+**Zhenhao Zhang#**
+
+This project is supported by the Intelligent Vehicle Laboratory of China University of Petroleum.
+
+[[**Project Page**]](http://zhenhao-zhang.github.io/NOTAPPLY/notapply.pdf)[[**Code**]](http://zhenhao-zhang.github.io/NOTAPPLY/notapply.pdf)
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Project'23</div><img src='projects/iron/iron.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Feature Angel Net simulates urban road recognition**
+
+**Zhenhao Zhang#**,Yifei Chen#,Xiaoyan Deng#
+
+This project is supported by Iron Man Technology's school enterprise cooperation.
+
+[[**Project Page**]](http://zhenhao-zhang.github.io/NOTAPPLY/notapply.pdf)[[**Code**]](http://zhenhao-zhang.github.io/NOTAPPLY/notapply.pdf)
 </div>
 </div>
 
