@@ -95,7 +95,7 @@ This project is supported by Iron Man Technology's school enterprise cooperation
 
 **Automatic Seeking Trolley Based on edge computing Device OPENMV**
 
-Jiahao Liu#,Yongqiang Lv#,Xinyu Wan#,Yiqi Feng#,**Zhenhao Zhang**
+Jiahao Liu#,Yongqiang Lv#,Xinyu Wan#,Yiqi Feng#,**Zhenhao Zhang#**
 
 This project is supported by the Intelligent Vehicle Laboratory of China University of Petroleum.
 
