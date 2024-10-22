@@ -74,19 +74,6 @@ Shutong Ding, Ke Hu, **Zhenhao Zhang**, Kan Ren, Weinan Zhang, Jingyi Yu, Jingya
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Project'23</div><img src='projects/auto/auto.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Automatic Seeking Trolley Based on edge computing Device OPENMV**
-
-Jiahao Liu#,Yongqiang Lv#,Xinyu Wan#,Yiqi Feng#,**Zhenhao Zhang**
-
-This project is supported by the Intelligent Vehicle Laboratory of China University of Petroleum.
-
-
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Project'23</div><img src='projects/iron/iron.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -101,6 +88,21 @@ This project is supported by Iron Man Technology's school enterprise cooperation
 
 </div>
 </div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Project'23</div><img src='projects/auto/auto.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Automatic Seeking Trolley Based on edge computing Device OPENMV**
+
+Jiahao Liu#,Yongqiang Lv#,Xinyu Wan#,Yiqi Feng#,**Zhenhao Zhang**
+
+This project is supported by the Intelligent Vehicle Laboratory of China University of Petroleum.
+
+
+</div>
+</div>
+
 
 # 🎖 Honors and Awards
 - *2023.5*,National Second Prize,China Robotics and Artificial Intelligence Competition(CRAIC)
