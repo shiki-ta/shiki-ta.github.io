@@ -56,8 +56,7 @@ Shutong Ding, Ke Hu, **Zhenhao Zhang**, Kan Ren, Weinan Zhang, Jingyi Yu, Jingya
 
 **Zhenhao Zhang**,Yunquan Song\*
 
-[[**Paper**]](http://zhenhao-zhang.github.io/NOTAPPLY/notapply.pdf)[[**Project Page**]](http://zhenhao-zhang.github.io/NOTAPPLY/notapply.pdf)[[**Code**]](http://zhenhao-zhang.github.io/NOTAPPLY/notapply.pdf)
-</div>
+[[**Paper**]](http://zhenhao-zhang.github.io/NOTAPPLY/notapply.pdf)
 </div>
 
 # 🌟 Projects 
@@ -69,7 +68,7 @@ Shutong Ding, Ke Hu, **Zhenhao Zhang**, Kan Ren, Weinan Zhang, Jingyi Yu, Jingya
 
 **Zhenhao Zhang#**, Cui Lei#,Songtao Zhang
 
-[[**Project Page**]](http://zhenhao-zhang.github.io/NOTAPPLY/notapply.pdf)[[**Code**]](http://zhenhao-zhang.github.io/NOTAPPLY/notapply.pdf)
+
 </div>
 </div>
 
