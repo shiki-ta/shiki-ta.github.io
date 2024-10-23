@@ -55,8 +55,7 @@ Shutong Ding, Ke Hu, **Zhenhao Zhang**, Kan Ren, Weinan Zhang, Jingyi Yu, Jingya
 **Robust Variable Selection for High-dimensional Regression with Missing Data and Measurement Errors**
 
 **Zhenhao Zhang**,Yunquan Song\*
-
-[[**Paper**]](http://zhenhao-zhang.github.io/NOTAPPLY/notapply.pdf)
+[![arXiv](https://img.shields.io/badge/arXiv-2410.16722-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2410.16722)
 </div>
 </div>
 
