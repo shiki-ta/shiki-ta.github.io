@@ -53,6 +53,19 @@ Shutong Ding, Ke Hu, **Zhenhao Zhang**, Kan Ren, Weinan Zhang, Jingyi Yu, Jingya
 
 # 🌟 Projects 
 #:Equal Contribution
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Project'24</div><img src='projects/prembvd/prembvd.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Reinter-identification for Embodied Interaction via Worldmodels**
+
+**Zhenhao Zhang**
+
+
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Project'24</div><img src='projects/prembvd/prembvd.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
