@@ -57,7 +57,7 @@ Shutong Ding, Ke Hu, **Zhenhao Zhang**, Kan Ren, Weinan Zhang, Jingyi Yu, Jingya
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Project'24</div><img src='projects/prembvd/prembvd.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**REIW:Re-identification for Embodied Interaction via Worldmodels**
+**REIKW:Re-identification for Embodied Interaction via Kinematic Worldmodel**
 
 **Zhenhao Zhang**
 
