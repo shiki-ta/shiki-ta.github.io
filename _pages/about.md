@@ -19,7 +19,7 @@ redirect_from:
 
 I am a Master student in VDI Center,MoE Key Laboratory of Intelligent Perception and Human Machine Collaboration,ShanghaiTech University under the supervision of [Prof. Ye Shi](https://shiye21.github.io),who is an expert in the field of Machine Learning.I get B.E. Degree in Department of Computer Science,China University of Petroleum under the supervision of [Prof. Yunquan Song](https://sci.upc.edu.cn/2019/0513/c14558a206193/page.htm), who is an expert in the field of High-Dimensional Statistic.
 
-My Research interest include Computer Vision and Pattern Recognition .Now I focus on the area of Embodied AI,Human-Centric Perception and Control.Click [**Here**](https://www.overleaf.com/read/jfqtwwjqvfcp#d62a26) to visit my CV.
+My Research interest include Computer Vision,Embodied AI,Human-Centric Perception and Control.Click [**Here**](https://www.overleaf.com/read/jfqtwwjqvfcp#d62a26) to visit my CV.
 
 Email :zhangzhh2024 AT shanghaitech DOT edu DOT cn
 
@@ -29,11 +29,11 @@ Email :zhangzhh2024 AT shanghaitech DOT edu DOT cn
 
 
 # 🔥 News
-
-- *2024.10*:I was invited to server as a Reviewer by **AISTATS'25**!
-- *2024.09*:One paper accepted by **NeurIPS'24**!
-- *2024.08*:I was invited to server as a Reviewer by **ICLR'25**!
-- *2024.05*:I was invited to server as a Reviewer by **NeurIPS'24**!
+[**CCF List**](https://www.ccf.org.cn/Academic_Evaluation/By_category/) [**CAAI List**](https://www.caai.cn/index.php?s=/home/article/detail/id/4024.html)
+- *2024.10*:I was invited to server as a Reviewer by **AISTATS'25(CAAI A)**!
+- *2024.09*:One paper accepted by **NeurIPS'24(CCF A)**!
+- *2024.08*:I was invited to server as a Reviewer by **ICLR'25(CAAI A)**!
+- *2024.05*:I was invited to server as a Reviewer by **NeurIPS'24(CCF A)**!
 
 # 📝 Publications 
 #:Equal Contribution *:Corresponding Author
@@ -53,17 +53,6 @@ Shutong Ding, Ke Hu, **Zhenhao Zhang**, Kan Ren, Weinan Zhang, Jingyi Yu, Jingya
 
 # 🌟 Projects 
 #:Equal Contribution
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Project'24</div><img src='projects/reikw/reikw.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**REIKW:Re-identification for Embodied Interaction via Kinematic Worldmodel**
-
-**Zhenhao Zhang**
-
-
-</div>
-</div>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Project'24</div><img src='projects/prembvd/prembvd.png' alt="sym" width="100%"></div></div>
@@ -110,8 +99,8 @@ This project is supported by Iron Man Technology's school enterprise cooperation
 
 # 💼 Services
 * Conference Reviewer
-  * NeurIPS:2024
-  * ICLR:2025
-  * AISTATS:2025
+  * NeurIPS(CCF A):2024
+  * ICLR(CAAI A):2025
+  * AISTATS(CAAI B):2025
 
 
