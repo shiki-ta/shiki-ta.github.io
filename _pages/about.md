@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Master student in VDI Center,MoE Key Laboratory of Intelligent Perception and Human Machine Collaboration,ShanghaiTech University under the supervision of [Prof. Ye Shi](https://shiye21.github.io),who is an expert in the field of Machine Learning.I get B.E. Degree in Department of Computer Science,China University of Petroleum under the supervision of [Prof. Yunquan Song](https://sci.upc.edu.cn/2019/0513/c14558a206193/page.htm), who is an expert in the field of High-Dimensional Statistic.
+I am a Master student in ShanghaiTech University under the supervision of [Prof. Ye Shi](https://shiye21.github.io),who is an expert in the field of Machine Learning.I get B.E. Degree in China University of Petroleum under the supervision of [Prof. Yunquan Song](https://sci.upc.edu.cn/2019/0513/c14558a206193/page.htm), who is an expert in the field of High-Dimensional Statistic.
 
 My Research interest include Computer Vision,Deep Learning.Now I focus on the topic of Hand-object Interaction,Diffusion,Human-Centric Perception and Embodied AI.Click [Here](https://www.overleaf.com/read/jfqtwwjqvfcp#d62a26) to visit my CV.
 
@@ -90,8 +90,8 @@ This project is supported by Iron Man Technology's school enterprise cooperation
 - *2021.4,2023.4*,Shandong First Prize(Group A),LanQiao Cup.
 
 # 📖 Educations
-- *2024.09 - now*,ShanghaiTech University,School of Information Science and Technology
-- *2020.09 - 2024.06*,China University of Petroleum,School of Computer Science and Technology
+- *2024.09 - now*,ShanghaiTech University,School of Information Science and Technology,MoE Key Laboratory of Intelligent Perception and Human Machine Collaboration,VDI Center,Major in **Computer Science**
+- *2020.09 - 2024.06*,China University of Petroleum,School of Computer Science and Technology,Major in **Computer Science**
 
 # 💻 Interships
 - *2024.3-2024.9*,Visiting Student,ShanghaiTech University
