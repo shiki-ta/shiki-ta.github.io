@@ -19,7 +19,7 @@ redirect_from:
 
 I am a Master student in ShanghaiTech University under the supervision of [Prof. Ye Shi](https://shiye21.github.io),who is an expert in the field of Machine Learning.I get B.E. Degree in China University of Petroleum under the supervision of [Prof. Yunquan Song](https://sci.upc.edu.cn/2019/0513/c14558a206193/page.htm), who is an expert in the field of High-Dimensional Statistic.
 
-My Research interest is Computer Vision.Now I focus on the area of Hand-object Interaction,Human-Centric Perception and Embodied AI.Click [Here](https://www.overleaf.com/read/jfqtwwjqvfcp#d62a26) to visit my CV. Click [Here](zhenhao-zhang.github.io/pages/openposition.md) if you want to work with me!
+My Research interest include Computer Vision and Reinforcement Learning.Now I focus on the area of Hand-object Interaction,Human-Centric Perception&Control and Embodied AI.Click [Here](https://www.overleaf.com/read/jfqtwwjqvfcp#d62a26) to visit my CV. Click [Here](zhenhao-zhang.github.io/pages/openposition.md) if you want to work with me!
 
 Email :zhangzhh2024 AT shanghaitech DOT edu DOT cn
 
