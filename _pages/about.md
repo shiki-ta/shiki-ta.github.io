@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Master student in ShanghaiTech University under the supervision of [Prof. Ye Shi](https://shiye21.github.io),who is an expert in the field of Machine Learning.I get B.E. Degree in China University of Petroleum under the supervision of [Prof. Yunquan Song](https://sci.upc.edu.cn/2019/0513/c14558a206193/page.htm), who is an expert in the field of High-Dimensional Statistic.
+I am a Master student in VDI Center,ShanghaiTech University under the supervision of [Prof. Ye Shi](https://shiye21.github.io),who is an expert in the field of Machine Learning.I get B.E. Degree in China University of Petroleum under the supervision of [Prof. Yunquan Song](https://sci.upc.edu.cn/2019/0513/c14558a206193/page.htm), who is an expert in the field of High-Dimensional Statistic.
 
-My Research interest include Computer Vision and Reinforcement Learning.Now I focus on the area of Hand-object Interaction,Human-Centric Perception&Control and Embodied AI.Click [Here](https://www.overleaf.com/read/jfqtwwjqvfcp#d62a26) to visit my CV. Click [Here](https://zhenhao-zhang.github.io/pages/openposition.md) if you want to work with me!
+My Research interest include Computer Vision and Reinforcement Learning.Now I focus on the area of Hand-object Interaction,Human-Centric Perception&Control and Embodied AI.Click [Here](https://www.overleaf.com/read/jfqtwwjqvfcp#d62a26) to visit my CV. Click [Here](https://zhangzhh.cn/pages/openposition.md) if you want to work with me!
 
 Email :zhangzhh2024 AT shanghaitech DOT edu DOT cn
 
@@ -94,11 +94,11 @@ This project is supported by Iron Man Technology's school enterprise cooperation
 - *2020.09 - 2024.06*,China University of Petroleum,School of Computer Science and Technology,Major in **Computer Science and Technology**
 
 # 💻 Interships
-- *2024.3-2024.9*,Visiting Student,ShanghaiTech University
+- *2024.3-2024.9*,Visiting Student,ShanghaiTech University,VDI Center,YesAI Lab
 
 
 # 💼 Services
-* Conference Reviewer
+* Program Committee Member
   * NeurIPS(CCF A):2024
   * ICLR(CAAI A):2025
   * AISTATS(CAAI B):2025
