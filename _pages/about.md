@@ -19,8 +19,7 @@ redirect_from:
 
 I am a Master student in VDI Center,ShanghaiTech University under the supervision of [Prof. Ye Shi](https://shiye21.github.io),who is an expert in the field of Machine Learning.I get B.E. Degree in China University of Petroleum under the supervision of [Prof. Yunquan Song](https://sci.upc.edu.cn/2019/0513/c14558a206193/page.htm), who is an expert in the field of High-Dimensional Statistic.
 
-My Research interest include Computer Vision and Reinforcement Learning.Now I focus on the area of Hand-object Interaction,Human-Centric Perception and Diffusion Models.Click [Here](https://www.overleaf.com/read/jfqtwwjqvfcp#d62a26) to visit my CV. Click [Here](https://zhangzhh.cn/pages/openposition.md) if you want to work with me!
-
+My Research interest include Computer Vision and Machine Learning.Now I focus on the area of Hand-object Interaction,Human-Centric Perception and Diffusion Models.Click [Here](https://www.overleaf.com/read/jfqtwwjqvfcp#d62a26) to visit my CV.
 Email :zhangzhh2024 AT shanghaitech DOT edu DOT cn
 
 
@@ -51,37 +50,6 @@ Shutong Ding, Ke Hu, **Zhenhao Zhang**, Kan Ren, Weinan Zhang, Jingyi Yu, Jingya
 
 
 
-# 🌟 Projects 
-#:Equal Contribution
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Project'24</div><img src='projects/prembvd/prembvd.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**PreMBVD:Pretrain Multi-task Biomedical Visual Models Under Differential Privacy**
-
-**Zhenhao Zhang#**, Lei Cui#,Songtao Zhang
-
-
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Project'23</div><img src='projects/iron/iron.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Feature Angel Net simulates urban road recognition**
-
-**Zhenhao Zhang#**,Yifei Chen#,Xiaoyan Deng#
-
-[[**Resume**]](http://zhenhao-zhang.github.io/projects/iron/iron.pdf)
-
-This project is supported by Iron Man Technology's school enterprise cooperation.
-</div>
-</div>
-
-
-
 
 # 🎖 Honors and Awards
 - *2023.5*,National Second Prize,China Robotics and Artificial Intelligence Competition(CRAIC)
@@ -90,7 +58,7 @@ This project is supported by Iron Man Technology's school enterprise cooperation
 - *2021.4,2023.4*,Shandong First Prize(Group A),LanQiao Cup.
 
 # 📖 Educations
-- *2024.09 - now*,ShanghaiTech University,School of Information Science and Technology,MoE Key Laboratory of Intelligent Perception and Human Machine Collaboration,VDI Center,Major in **Computer Technology**
+- *2024.09 - now*,ShanghaiTech University,School of Information Science and Technology,Major in **Computer Technology**
 - *2020.09 - 2024.06*,China University of Petroleum,School of Computer Science and Technology,Major in **Computer Science and Technology**
 
 # 💻 Interships
