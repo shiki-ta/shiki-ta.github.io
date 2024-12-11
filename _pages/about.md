@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Master student in VDI Center,ShanghaiTech University under the supervision of [Prof. Ye Shi](https://shiye21.github.io),who is an expert in the field of Machine Learning.I get B.E. Degree in China University of Petroleum under the supervision of [Prof. Yunquan Song](https://sci.upc.edu.cn/2019/0513/c14558a206193/page.htm), who is an expert in the field of High-Dimensional Statistic.
+I am Current a First-year Master student in VDI Center,ShanghaiTech University under the supervision of [Prof. Ye Shi](https://shiye21.github.io),who is an expert in the field of Machine Learning.I get B.E. Degree in China University of Petroleum under the supervision of [Prof. Yunquan Song](https://sci.upc.edu.cn/2019/0513/c14558a206193/page.htm), who is an expert in the field of High-Dimensional Statistic.
 
 My Research interest is Computer Vision.Now I focus on the area of Human-object Interaction,3D Vision and Diffusion Models.Click [Here](https://www.overleaf.com/read/jfqtwwjqvfcp#d62a26) to visit my CV.
 
@@ -30,6 +30,7 @@ Email :zhangzhh2024 AT shanghaitech DOT edu DOT cn
 
 # 🔥 News
 [**CCF List**](https://www.ccf.org.cn/Academic_Evaluation/By_category/) [**CAAI List**](https://www.caai.cn/index.php?s=/home/article/detail/id/4024.html)
+- *2024.12*:I was invited to server as a Reviewer by **ICML'25(CCF A)**!I was invited to server as PC Member by all **AI Top-3** conferences!
 - *2024.10*:I was invited to server as a Reviewer by **AISTATS'25(CAAI B)**!
 - *2024.09*:One paper accepted by **NeurIPS'24(CCF A)**!
 - *2024.08*:I was invited to server as a Reviewer by **ICLR'25(CAAI A)**!
@@ -67,6 +68,6 @@ Shutong Ding, Ke Hu, **Zhenhao Zhang**, Kan Ren, Weinan Zhang, Jingyi Yu, Jingya
 
 
 # 💼 Services
-* Program Committee Member:NeurIPS'24,ICLR'25,AISTATS'25
+* Program Committee Member:NeurIPS'24,ICLR'25,AISTATS'25,ICML'25
 
 
