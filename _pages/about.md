@@ -29,12 +29,8 @@ Email :zhangzhh2024 AT shanghaitech DOT edu DOT cn
 
 
 # 🔥 News
-[**CCF List**](https://www.ccf.org.cn/Academic_Evaluation/By_category/) [**CAAI List**](https://www.caai.cn/index.php?s=/home/article/detail/id/4024.html)
-- *2024.12*:I was invited to server as a Reviewer by **ICML'25(CCF A)**!
-- *2024.10*:I was invited to server as a Reviewer by **AISTATS'25(CAAI B)**!
 - *2024.09*:One paper accepted by **NeurIPS'24(CCF A)**!
-- *2024.08*:I was invited to server as a Reviewer by **ICLR'25(CAAI A)**!
-- *2024.05*:I was invited to server as a Reviewer by **NeurIPS'24(CCF A)**!
+
 
 # 📝 Publications 
 #:Equal Contribution *:Corresponding Author
@@ -68,6 +64,6 @@ Shutong Ding, Ke Hu, **Zhenhao Zhang**, Kan Ren, Weinan Zhang, Jingyi Yu, Jingya
 
 
 # 💼 Services
-* Program Committee Member:NeurIPS'24,ICLR'25,AISTATS'25,ICML'25
+*  Reviewer:NeurIPS'24,ICLR'25,AISTATS'25,ICML'25,NeurIPS'25
 
 
