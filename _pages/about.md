@@ -50,10 +50,11 @@ Shutong Ding, Ke Hu, **Zhenhao Zhang**, Kan Ren, Weinan Zhang, Jingyi Yu, Jingya
 
 
 # 🎖 Honors and Awards
-- *2023.5*,National Second Prize,China Robotics and Artificial Intelligence Competition
-- *2022.11*,Bronze Medal(SOLO),Kaggle Featured Code Competition:Feedback Prize - English Language Learning
-- *2022.6*,Finalist,America Mathematics Contest in Modeling,Top 1%.
-- *2021.4,2023.4*,Shandong First Prize in Group A,LanQiao Cup.
+- *2023.5*,National Second Prize,China Robotics and Artificial Intelligence Competition[2023CRAIC](https://www.caairobot.com/craicresult/controller/resultQueryController.php)
+- *2023.4*,Shandong First Prize in Group A,LanQiao Cup[2023LQB](https://dasai.lanqiao.cn/notices/860/)
+- *2022.11*,Bronze Medal(SOLO),Kaggle Featured Code Competition:Feedback Prize - English Language Learning[2022Kaggle](https://www.kaggle.com/upczhenhaozhang)
+- *2022.6*,Finalist,America Mathematics Contest in Modeling,Top 1%[2022MCM](https://www.comap-math.org/mcm/2022Certs/2204752.pdf)
+- *2021.4*,Shandong First Prize in Group A,LanQiao Cup[2021LQB](https://dasai.lanqiao.cn/notices/860/)
 
 # 📖 Educations
 - *2024.09 - now*,ShanghaiTech University,School of Information Science and Technology,Major in **Computer Technology**
