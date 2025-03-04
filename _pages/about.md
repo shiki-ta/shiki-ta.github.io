@@ -65,6 +65,6 @@ Shutong Ding, Ke Hu, **Zhenhao Zhang**, Kan Ren, Weinan Zhang, Jingyi Yu, Jingya
 
 
 # 💼 Services
-*  Reviewer:NeurIPS'24,ICLR'25,AISTATS'25,ICML'25,NeurIPS'25
+*  Reviewer:NeurIPS'24,ICLR'25,AISTATS'25,ICML'25,NeurIPS'25,IJCNN'25
 
 
