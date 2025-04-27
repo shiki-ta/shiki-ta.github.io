@@ -19,7 +19,7 @@ redirect_from:
 
 I am Current a First-year Master student in VDI Center,ShanghaiTech University under the supervision of [Prof. Ye Shi](https://shiye21.github.io) and [Prof. Jingya Wang](https://faculty.sist.shanghaitech.edu.cn/faculty/wangjingya/),who are experts in the field of Computer Vision.I get B.E. Degree in China University of Petroleum under the supervision of [Prof. Yunquan Song](https://sci.upc.edu.cn/2019/0513/c14558a206193/page.htm), who is an expert in the field of High-Dimensional Statistic.
 
-My Research interest include [Hand-object Interaction](https://zhangzhh.cn/Hand-Object-Learning/),Vision Language Model and Differential Privacy.Click [Here](https://www.overleaf.com/read/jfqtwwjqvfcp#d62a26) to visit my CV.
+My Research interest include Large Language Model,GenerativeAI and EmbodiedAI.Now I focus on the topic of [Hand-object Interaction](https://zhangzhh.cn/Hand-Object-Learning/),Robot Manipulation,Affordance and Privacy Learning.Click [Here](https://www.overleaf.com/read/jfqtwwjqvfcp#d62a26) to visit my CV.
 
 Email :zhangzhh2024 AT shanghaitech DOT edu DOT cn
 
@@ -34,6 +34,35 @@ Email :zhangzhh2024 AT shanghaitech DOT edu DOT cn
 
 # 📝 Publications 
 #:Equal Contribution *:Corresponding Author
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ARXIV'25</div><img src='papers/LLMHOI/LLMHOI.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**LLM-guided Hand-Object Interaction Generation**
+
+Zhenhao Zhang, Suting Ni, Jingya Wang\* ,Ye Shi\*
+
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ARXIV'25</div><img src='papers/DiffAfford/DiffAfford.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Unlock Affordance Knowledge within Diffusion Model for 3D Affordance Grounding**
+
+Hanqing Wang#, **Zhenhao Zhang#**, Kaiyang Ji, Wenti Yin, yuchao chen, Hangxing Zhang
+
+
+</div>
+</div>
+
+
+
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS'24</div><img src='papers/QVPO/QVPO.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
