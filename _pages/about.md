@@ -35,6 +35,8 @@ Email :zhangzhh2024 AT shanghaitech DOT edu DOT cn
 # 📝 Publications 
 #:Equal Contribution *:Corresponding Author
 
+<div style="display:none">
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ARXIV'25</div><img src='papers/LLMHOI/LLMHOI.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -47,6 +49,10 @@ Zhenhao Zhang, Suting Ni, Jingya Wang\* ,Ye Shi\*
 </div>
 </div>
 
+</div>
+
+<div style="display:none">
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ARXIV'25</div><img src='papers/DiffAfford/DiffAfford.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -58,6 +64,7 @@ Hanqing Wang#, **Zhenhao Zhang#**, Kaiyang Ji, Wenti Yin, yuchao chen, Hangxing 
 </div>
 </div>
 
+</div>
 
 
 
