@@ -19,7 +19,7 @@ redirect_from:
 
 I am Current a First-year Master student in VDI Center,ShanghaiTech University under the supervision of [Prof. Ye Shi](https://shiye21.github.io) and [Prof. Jingya Wang](https://faculty.sist.shanghaitech.edu.cn/faculty/wangjingya/),who are experts in the field of Computer Vision.I get B.E. Degree in China University of Petroleum under the supervision of [Prof. Yunquan Song](https://sci.upc.edu.cn/2019/0513/c14558a206193/page.htm), who is an expert in the field of High-Dimensional Statistic.
 
-My Research interest include Large Language Model,GenerativeAI and EmbodiedAI.Now I focus on the topic of [Hand-object Interaction](https://zhangzhh.cn/Hand-Object-Learning/),Robot Manipulation,Affordance and Privacy Learning.Click [Here](https://www.overleaf.com/read/jfqtwwjqvfcp#d62a26) to visit my CV.
+My Research interest include Large Language Model,GenerativeAI and EmbodiedAI.Now I focus on the topic of [Hand-Object Interaction](https://zhangzhh.cn/Hand-Object-Learning/),Open-World/Open-Vocabulary Model,Manipulation/Affordance and Privacy Learning.Click [Here](https://www.overleaf.com/read/jfqtwwjqvfcp#d62a26) to visit my CV.
 
 Email :zhangzhh2024 AT shanghaitech DOT edu DOT cn
 
@@ -41,9 +41,9 @@ Email :zhangzhh2024 AT shanghaitech DOT edu DOT cn
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ARXIV'25</div><img src='papers/LLMHOI/LLMHOI.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**LLM-guided Hand-Object Interaction Generation**
+**OpenHOI:Open-World Hand-Object Interaction Synthesis with Multimodal Large Language Model**
 
-Zhenhao Zhang, Suting Ni, Jingya Wang\* ,Ye Shi\*
+Zhenhao Zhang, Suting Ni, Lingxiao Yang,Jingya Wang\* ,Ye Shi\*
 
 
 </div>
@@ -58,8 +58,7 @@ Zhenhao Zhang, Suting Ni, Jingya Wang\* ,Ye Shi\*
 
 **Unlock Affordance Knowledge within Diffusion Model for 3D Affordance Grounding**
 
-Hanqing Wang#, **Zhenhao Zhang#**, Kaiyang Ji, Wenti Yin, yuchao chen, Hangxing Zhang
-
+Hanqing Wang#, **Zhenhao Zhang#**, Kaiyang Ji, Mingyu Liu, Wenti Yin, Yuchao Chen, Zhirui Liu, Hangxing Zhang
 
 </div>
 </div>
@@ -86,11 +85,21 @@ Shutong Ding, Ke Hu, **Zhenhao Zhang**, Kan Ren, Weinan Zhang, Jingyi Yu, Jingya
 
 
 # 🎖 Honors and Awards
+- *2023.5*,National Second Prize,China Robotics and Artificial Intelligence Competition
+- *2023.4*,Shandong First Prize in Group A,LanQiao Cup
+- *2022.11*,Bronze Medal(SOLO),Kaggle Featured Code Competition:Feedback Prize - English Language Learning
+- *2022.6*,Finalist,America Mathematics Contest in Modeling,Top 1%
+- *2021.4*,Shandong First Prize in Group A,LanQiao Cup
+
+<div style="display:none">
+# 🎖 Honors and Awards
 - *2023.5*,National Second Prize,China Robotics and Artificial Intelligence Competition[2023CRAIC TeamID:CRAIC2023-NF-BMJXSD](https://www.caairobot.com/craicresult/view/)
 - *2023.4*,Shandong First Prize in Group A,LanQiao Cup[2023LQB](https://dasai.lanqiao.cn/notices/860/)
 - *2022.11*,Bronze Medal(SOLO),Kaggle Featured Code Competition:Feedback Prize - English Language Learning[2022Kaggle](https://www.kaggle.com/upczhenhaozhang)
 - *2022.6*,Finalist,America Mathematics Contest in Modeling,Top 1%[2022MCM](https://www.comap-math.org/mcm/2022Certs/2204752.pdf)
 - *2021.4*,Shandong First Prize in Group A,LanQiao Cup[2021LQB](https://dasai.lanqiao.cn/notices/860/)
+</div>
+
 
 # 📖 Educations
 - *2024.09 - now*,ShanghaiTech University,School of Information Science and Technology,Major in **Computer Technology**
@@ -103,4 +112,6 @@ Shutong Ding, Ke Hu, **Zhenhao Zhang**, Kan Ren, Weinan Zhang, Jingyi Yu, Jingya
 # 💼 Services
 *  Reviewer:NeurIPS'24,ICLR'25,AISTATS'25,ICML'25,NeurIPS'25,IJCNN'25
 
-
+# 🤝 Friends
+- Undergrade:[Jiaxin Liu](https://staskaer.github.io/)
+- Master Student:[Kaiyang Ji](https://jiky.me/),[Yahao Fan](https://fanyahao1.github.io/),[Zhirui Liu](https://zhirui86.github.io/)
