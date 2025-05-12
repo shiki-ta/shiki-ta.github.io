@@ -114,4 +114,4 @@ Shutong Ding, Ke Hu, **Zhenhao Zhang**, Kan Ren, Weinan Zhang, Jingyi Yu, Jingya
 
 # 🤝 Friends
 - Undergrade:[Jiaxin Liu](https://staskaer.github.io/)
-- Master Student:[Kaiyang Ji](https://jiky.me/),[Yahao Fan](https://fanyahao1.github.io/),[Zhirui Liu](https://zhirui86.github.io/)
+- Master:[Kaiyang Ji](https://jiky.me/),[Yahao Fan](https://fanyahao1.github.io/),[Zhirui Liu](https://zhirui86.github.io/),[Hanqing Wang](https://hq-king.github.io/)
