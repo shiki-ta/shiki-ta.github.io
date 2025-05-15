@@ -56,7 +56,7 @@ Zhenhao Zhang, Suting Ni, Lingxiao Yang,Jingya Wang\* ,Ye Shi\*
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ARXIV'25</div><img src='papers/DiffAfford/DiffAfford.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Unlock Affordance Knowledge within Diffusion Model for 3D Affordance Grounding**
+**DAG: Unleash the potential of Diffusion Model for Open Vocabulary 3D Affordance Grounding**
 
 Hanqing Wang#, **Zhenhao Zhang#**, Kaiyang Ji, Mingyu Liu, Wenti Yin, Yuchao Chen, Zhirui Liu, Hangxing Zhang
 
