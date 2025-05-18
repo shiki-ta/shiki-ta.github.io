@@ -35,7 +35,7 @@ Email :zhangzhh2024 AT shanghaitech DOT edu DOT cn
 # 📝 Publications 
 #:Equal Contribution *:Corresponding Author
 
-
+<div style="display:none">
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ARXIV'25</div><img src='papers/OpenHOI/OpenHOI.png' alt="sym" width="100%"></div></div>
@@ -49,9 +49,9 @@ Email :zhangzhh2024 AT shanghaitech DOT edu DOT cn
 </div>
 </div>
 
+</div>
 
-
-
+<div style="display:none">
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ARXIV'25</div><img src='papers/DAG/DAG.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -63,7 +63,7 @@ Hanqing Wang#, **Zhenhao Zhang#**, Kaiyang Ji#, Mingyu Liu, Wenti Yin, Yuchao Ch
 </div>
 </div>
 
-
+</div>
 
 
 
