@@ -35,10 +35,10 @@ Email :zhangzhh2024 AT shanghaitech DOT edu DOT cn
 # 📝 Publications 
 #:Equal Contribution *:Corresponding Author
 
-<div style="display:none">
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ARXIV'25</div><img src='papers/LLMHOI/LLMHOI.png' alt="sym" width="100%"></div></div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ARXIV'25</div><img src='papers/OpenHOI/OpenHOI.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **OpenHOI:Open-World Hand-Object Interaction Synthesis with Multimodal Large Language Model**
@@ -53,17 +53,17 @@ Zhenhao Zhang, Ye Shi\*, Lingxiao Yang, Suting Ni, Qi Ye, Jingya Wang\*
 
 <div style="display:none">
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ARXIV'25</div><img src='papers/DiffAfford/DiffAfford.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ARXIV'25</div><img src='papers/DAG/DAG.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**DAG: Unleash the potential of Diffusion Model for Open Vocabulary 3D Affordance Grounding**
+**DAG: Unleash the potential of Diffusion Model for Open-Vocabulary 3D Affordance Grounding**
 
-Hanqing Wang#, **Zhenhao Zhang#**, Kaiyang Ji, Mingyu Liu, Wenti Yin, Yuchao Chen, Zhirui Liu, Hangxing Zhang
-
-</div>
-</div>
+Hanqing Wang#, **Zhenhao Zhang#**, Kaiyang Ji#, Mingyu Liu, Wenti Yin, Yuchao Chen, Zhirui Liu, Hangxing Zhang
 
 </div>
+</div>
+
+
 
 
 
