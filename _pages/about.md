@@ -102,12 +102,51 @@ Shutong Ding, Ke Hu, **Zhenhao Zhang**, Kan Ren, Weinan Zhang, Jingyi Yu, Jingya
 
 
 # 📖 Educations
-- *2024.09 - now*,ShanghaiTech University,School of Information Science and Technology,Major in **Computer Technology**
-- *2020.09 - 2024.06*,China University of Petroleum,School of Computer Science and Technology,Major in **Computer Science and Technology**
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/skd.png' alt="sym" width="95%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<span style="font-size:18px;">**ShanghaiTech University**</span>
+
+*2024.09 - now*
+
+School of Information Science and Technology
+
+Major: M.S. in **Computer Technology**
+
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/upc.png' alt="sym" width="95%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<span style="font-size:18px;">**China University of Petroleum**</span>
+
+*2020.09 - 2024.06*
+
+School of Computer Science and Technology
+
+Major: B.E. in **Computer Science and Technology**
+
+
+</div>
+</div>
 
 # 💻 Interships
-- *2024.3-2024.9*,Visiting Student,ShanghaiTech University,VDI Center,YesAI Lab
 
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/skd.png' alt="sym" width="95%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<span style="font-size:18px;">**ShanghaiTech University**</span>
+
+*2024.3-2024.9*
+  VDI Center,YesAI Lab
+
+  Visiting Student: Reinforcement Learning,EmbodiedAI
+
+</div>
+</div>
 
 # 💼 Services
 *  Reviewer:NeurIPS'24,ICLR'25,AISTATS'25,ICML'25,NeurIPS'25,IJCNN'25
