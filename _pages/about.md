@@ -43,7 +43,7 @@ Email :zhangzhh2024 AT shanghaitech DOT edu DOT cn
 
 **OpenHOI:Open-World Hand-Object Interaction Synthesis with Multimodal Large Language Model**
 
-Zhenhao Zhang, Ye Shi\*, Lingxiao Yang, Suting Ni, Qi Ye, Jingya Wang\*
+**Zhenhao Zhang**, Ye Shi\*, Lingxiao Yang, Suting Ni, Qi Ye, Jingya Wang\*
 
 
 </div>
