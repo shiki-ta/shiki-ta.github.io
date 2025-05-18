@@ -49,9 +49,9 @@ Zhenhao Zhang, Ye Shi\*, Lingxiao Yang, Suting Ni, Qi Ye, Jingya Wang\*
 </div>
 </div>
 
-</div>
 
-<div style="display:none">
+
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ARXIV'25</div><img src='papers/DAG/DAG.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
