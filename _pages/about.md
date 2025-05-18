@@ -129,7 +129,7 @@ School of Computer Science and Technology
 
 Major: B.E. in **Computer Science and Technology**
 
-
+Paper: Submitted'23 [![arXiv](https://img.shields.io/badge/arXiv-2410.16722-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2410.16722)
 </div>
 </div>
 
