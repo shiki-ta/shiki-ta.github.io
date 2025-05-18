@@ -146,6 +146,8 @@ VDI Center,YesAI Lab
 
 Visiting Student: Reinforcement Learning,EmbodiedAI
 
+Paper:NeurIPS'24 [![arXiv](https://img.shields.io/badge/arXiv-2405.16173-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2405.16173)
+
 </div>
 </div>
 
