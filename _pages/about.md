@@ -141,9 +141,10 @@ Major: B.E. in **Computer Science and Technology**
 <span style="font-size:18px;">**ShanghaiTech University**</span>
 
 *2024.3-2024.9*
-  VDI Center,YesAI Lab
 
-  Visiting Student: Reinforcement Learning,EmbodiedAI
+VDI Center,YesAI Lab
+
+Visiting Student: Reinforcement Learning,EmbodiedAI
 
 </div>
 </div>
