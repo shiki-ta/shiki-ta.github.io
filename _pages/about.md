@@ -21,11 +21,11 @@ I am Current a First-year Master student in VDI Center,ShanghaiTech University u
 
 My Research interest include Multimodal Large Language Model (MLLM),GenerativeAI and EmbodiedAI.Now I focus on the topic of Manipulation,Affordance and Privacy Learning.Click [Here](https://www.overleaf.com/read/jfqtwwjqvfcp#d62a26) to visit my CV.
 
-If you want to learn **Manipulation(Most Hand-Object Interaction)**,click[Here](https://zhangzhh.cn/Hand-Object-Learning/)
+If you want to learn **Manipulation(Most Hand-Object Interaction)**.Click [Here](https://zhangzhh.cn/Hand-Object-Learning/)
 
-If you want to learn **Large Language Models**,click[Here](https://zhangzhh.cn/LLM-Learning/)
+If you want to learn **Large Language Models**.Click [Here](https://zhangzhh.cn/LLM-Learning/)
 
-If you want to learn **Privacy Learning**,click[Here](https://zhangzhh.cn/PL-Learning/)
+If you want to learn **Privacy Learning**.Click [Here](https://zhangzhh.cn/PL-Learning/)
 
 Email :zhangzhh2024 AT shanghaitech DOT edu DOT cn
 
