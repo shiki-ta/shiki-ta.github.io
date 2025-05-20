@@ -19,13 +19,11 @@ redirect_from:
 
 I am Current a First-year Master student in VDI Center,ShanghaiTech University under the supervision of [Prof. Ye Shi](https://shiye21.github.io) and [Prof. Jingya Wang](https://faculty.sist.shanghaitech.edu.cn/faculty/wangjingya/),who are experts in the field of Computer Vision.I get B.E. Degree in China University of Petroleum under the supervision of [Prof. Yunquan Song](https://sci.upc.edu.cn/2019/0513/c14558a206193/page.htm), who is an expert in the field of High-Dimensional Statistic.
 
-My Research interest include Multimodal Large Language Model (MLLM),GenerativeAI and EmbodiedAI.Now I focus on the topic of Manipulation,Affordance and Privacy Learning.Click [Here](https://www.overleaf.com/read/jfqtwwjqvfcp#d62a26) to visit my CV.
+My Research interest include [**Multimodal Large Language Model (MLLM)**](https://zhangzhh.cn/LLM-Learning/),GenerativeAI and EmbodiedAI.Now I focus on the topic of [**Manipulation**](https://zhangzhh.cn/Hand-Object-Learning/),Affordance and Privacy Learning.Click [Here](https://www.overleaf.com/read/jfqtwwjqvfcp#d62a26) to visit my CV.
 
-If you want to learn **Manipulation(Most Hand-Object Interaction)**.Click [Here](https://zhangzhh.cn/Hand-Object-Learning/)
 
-If you want to learn **Large Language Models**.Click [Here](https://zhangzhh.cn/LLM-Learning/)
 
-If you want to learn **Privacy Learning**.Click [Here](https://zhangzhh.cn/PL-Learning/)
+
 
 Email :zhangzhh2024 AT shanghaitech DOT edu DOT cn
 
