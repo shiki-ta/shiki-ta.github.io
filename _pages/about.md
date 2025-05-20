@@ -155,6 +155,24 @@ Paper:NeurIPS2024 [![arXiv](https://img.shields.io/badge/arXiv-2405.16173-b31b1b
 </div>
 </div>
 
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/haomo.png' alt="sym" width="95%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<span style="font-size:18px;">**HAOMO AI**</span>
+
+*2023.9.08* 
+
+Auto-Driving Team
+
+Prediction Algorithm Intern: Autonomous Driving
+
+I got the offer but have no time to go. Because I lost my exemption from the exam and need to take the postgraduate entrance examination.This is my first algorithm internship offer, so I am recording it here
+
+
+</div>
+</div>
+
 # 💼 Services
 *  Reviewer:NeurIPS2024,ICLR2025,AISTATS2025,ICML2025,NeurIPS2025,IJCNN2025
 
