@@ -161,13 +161,11 @@ Paper:NeurIPS2024 [![arXiv](https://img.shields.io/badge/arXiv-2405.16173-b31b1b
 
 <span style="font-size:18px;">**HAOMO AI**</span>
 
-*2023.9.08* 
+*2023.9.08* got the offer but have [no time to go](https://zhuanlan.zhihu.com/p/686809221)
 
 Auto-Driving Team
 
 Prediction Algorithm Intern: Autonomous Driving
-
-I got the offer but have no time to go. Because I lost my exemption from the exam and need to take the postgraduate entrance examination.This is my first algorithm internship offer, so I am recording it here
 
 
 </div>
