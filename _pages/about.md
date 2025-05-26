@@ -175,5 +175,5 @@ Prediction Algorithm Intern: Autonomous Driving
 *  Reviewer:NeurIPS2024,ICLR2025,AISTATS2025,ICML2025,NeurIPS2025,IJCNN2025
 
 # 🤝 Friends
-- Undergrade:[Jiaxin Liugh@ShanghaiTech](https://staskaer.github.io/)
-- Master:[Kaiyang Ji@ShanghaiTech](https://jiky.me/),[Yahao Fan@ShanghaiTech](https://fanyahao1.github.io/),[Zhirui Liu@NWPU](https://zhirui86.github.io/),[Hanqing Wang@ShanghaiAI Lab](https://hq-king.github.io/)
+- Undergrade:[Jiaxin Liu](https://staskaer.github.io/)
+- Master:[Kaiyang Ji](https://jiky.me/),[Yahao Fan](https://fanyahao1.github.io/),[Zhirui Liu](https://zhirui86.github.io/),[Hanqing Wang](https://hq-king.github.io/)
