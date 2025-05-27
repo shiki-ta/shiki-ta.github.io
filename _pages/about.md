@@ -49,7 +49,7 @@ Email :zhangzhh2024 AT shanghaitech DOT edu DOT cn
 
 **Zhenhao Zhang**, Ye Shi\*, Lingxiao Yang, Suting Ni, Qi Ye, Jingya Wang\*
 
-[[**Project Page**]](http://openhoi.github.io)
+[![arXiv](https://img.shields.io/badge/arXiv-2505.18947-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2505.18947)[[**Project Page**]](http://openhoi.github.io)
 </div>
 </div>
 
