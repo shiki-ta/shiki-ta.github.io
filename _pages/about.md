@@ -33,7 +33,7 @@ Email :zhangzhh2024 AT shanghaitech DOT edu DOT cn
 
 
 # 🔥 News
-- *2024.09*:One paper accepted by **NeurIPS2024(CCF A)**!
+- *2024.09*:One paper accepted by **NeurIPS 2024(CCF A)**!
 
 
 # 📝 Publications 
@@ -42,7 +42,7 @@ Email :zhangzhh2024 AT shanghaitech DOT edu DOT cn
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ARXIV2025</div><img src='papers/OpenHOI/OpenHOI.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ARXIV</div><img src='papers/OpenHOI/OpenHOI.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **OpenHOI:Open-World Hand-Object Interaction Synthesis with Multimodal Large Language Model**
@@ -57,7 +57,7 @@ Email :zhangzhh2024 AT shanghaitech DOT edu DOT cn
 
 <div style="display:none">
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ARXIV2025</div><img src='papers/DAG/DAG.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ARXIV</div><img src='papers/DAG/DAG.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **DAG: Unleash the potential of Diffusion Model for Open-Vocabulary 3D Affordance Grounding**
@@ -73,10 +73,10 @@ Hanqing Wang#, **Zhenhao Zhang#**, Kaiyang Ji#, Mingyu Liu, Wenti Yin, Yuchao Ch
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS2024</div><img src='papers/QVPO/QVPO.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='papers/QVPO/QVPO.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Diffusion-based Reinforcement Learning via Q-weighted Variational Policy Optimization,NeurIPS2024(CCF A)**
+**Diffusion-based Reinforcement Learning via Q-weighted Variational Policy Optimization,NeurIPS 2024(CCF A)**
 
 Shutong Ding, Ke Hu, **Zhenhao Zhang**, Kan Ren, Weinan Zhang, Jingyi Yu, Jingya Wang, Ye Shi\*
 
@@ -172,7 +172,7 @@ Prediction Algorithm Intern: Autonomous Driving
 </div>
 
 # 💼 Services
-*  Reviewer:NeurIPS2024,ICLR2025,AISTATS2025,ICML2025,NeurIPS2025,IJCNN2025
+*  Reviewer:NeurIPS 2024,ICLR 2025,AISTATS 2025,ICML 2025,NeurIPS 2025,IJCNN 2025
 
 # 🤝 Friends
 - Undergrade:[Jiaxin Liu](https://staskaer.github.io/)
