@@ -143,7 +143,7 @@ Major: B.E. in **Computer Science and Technology**
 
 <span style="font-size:18px;">**ShanghaiTech University**</span>
 
-*2024.9-now*
+*2024.9 - now*
 
 VDI Center,YesAI Lab
 
@@ -159,7 +159,7 @@ Paper:Arxiv1[[paper]](https://arxiv.org/abs/2505.18947),Arxiv2[[paper]](http://z
 
 <span style="font-size:18px;">**ShanghaiTech University**</span>
 
-*2024.3-2024.9*
+*2024.3 - 2024.9*
 
 VDI Center,YesAI Lab
 
