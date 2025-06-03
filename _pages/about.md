@@ -19,7 +19,7 @@ redirect_from:
 
 I am Current a First-year Master student in VDI Center,ShanghaiTech University under the supervision of [Prof. Ye Shi](https://shiye21.github.io) and [Prof. Jingya Wang](https://faculty.sist.shanghaitech.edu.cn/faculty/wangjingya/),who are experts in the field of Computer Vision.I get B.E. Degree in China University of Petroleum under the supervision of [Prof. Yunquan Song](https://sci.upc.edu.cn/2019/0513/c14558a206193/page.htm), who is an expert in the field of High-Dimensional Statistic.
 
-My Research interest include [**Large Language Model**](https://zhangzhh.cn/LLM-Learning/),GenerativeAI and EmbodiedAI.Now I focus on the topic of [**Manipulation**](https://zhangzhh.cn/Manipulation-Learning/),Affordance and Privacy Learning.Click [Here](https://zhenhao-zhang.github.io/CV/zhangzhh_CV_homepage.pdf)
+My Research interest include [**Large Language Model**](https://zhangzhh.cn/LLM-Learning/),GenerativeAI and EmbodiedAI.Now I focus on the topic of [**Manipulation**](https://zhangzhh.cn/Manipulation-Learning/),Affordance and Privacy Learning.Click [Here](https://zhenhao-zhang.github.io/CV/zhangzhh_CV_homepage.pdf) to visit my CV.
 
 
 
@@ -149,7 +149,7 @@ VDI Center,YesAI Lab
 
 Master Student: Large Language Model,Generative AI,Embodied AI
 
-Paper:Arxiv1[paper](https://arxiv.org/abs/2505.18947),Arxiv2[paper](http://zhenhao-zhang.github.io/DAG_page/)
+Paper:Arxiv1[[paper]](https://arxiv.org/abs/2505.18947),Arxiv2[[paper]](http://zhenhao-zhang.github.io/DAG_page/)
 
 </div>
 </div>
@@ -165,7 +165,7 @@ VDI Center,YesAI Lab
 
 Visiting Student: Reinforcement Learning,Embodied AI
 
-Paper:NeurIPS2024[paper](https://arxiv.org/abs/2405.16173)
+Paper:NeurIPS2024[[paper]](https://arxiv.org/abs/2405.16173)
 
 </div>
 </div>
@@ -196,7 +196,7 @@ School of Science, Department of Data Science and Statistics
 
 Undergrate Student: High-Dimensional Statistic, Data Mining, Biomedical Foundation Model
 
-Paper:Arxiv[paper](https://arxiv.org/abs/2410.16722)
+Paper:Arxiv[[paper]](https://arxiv.org/abs/2410.16722)
 
 </div>
 </div>
