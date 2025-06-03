@@ -57,7 +57,7 @@ Email :zhangzhh2024 AT shanghaitech DOT edu DOT cn
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Coming Soon</div><img src='papers/DAG/DAG.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Coming Soon</div><img src='papers/DAG/DAG.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **DAG: Unleash the potential of Diffusion Model for Open-Vocabulary 3D Affordance Grounding**
@@ -66,7 +66,7 @@ Hanqing Wang#, **Zhenhao Zhang#**, Kaiyang Ji#, Mingyu Liu, Wenti Yin, Yuchao Ch
 
 [[**Project Page**]](http://zhenhao-zhang.github.io/DAG_page/)
 </div>
-</div>
+</div> -->
 
 
 
