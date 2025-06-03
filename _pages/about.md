@@ -136,7 +136,23 @@ Major: B.E. in **Computer Science and Technology**
 </div>
 </div>
 
-# 💻 Interships
+# 💻 Research Experiments
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/skd.png' alt="sym" width="95%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<span style="font-size:18px;">**ShanghaiTech University**</span>
+
+*2024.9-now*
+
+VDI Center,YesAI Lab
+
+Master Student: Large Language Model,Generative AI,Embodied AI
+
+Paper:Arxiv1[paper](https://arxiv.org/abs/2505.18947),Arxiv2[paper](http://zhenhao-zhang.github.io/DAG_page/)
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/skd.png' alt="sym" width="95%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -147,13 +163,40 @@ Major: B.E. in **Computer Science and Technology**
 
 VDI Center,YesAI Lab
 
-Visiting Student: Reinforcement Learning,EmbodiedAI
+Visiting Student: Reinforcement Learning,Embodied AI
 
-Paper:NeurIPS2024 [![arXiv](https://img.shields.io/badge/arXiv-2405.16173-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2405.16173)
+Paper:NeurIPS2024[paper](https://arxiv.org/abs/2405.16173)
 
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/upc.png' alt="sym" width="95%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<span style="font-size:18px;">**China University of Petroleum**</span>
+
+*2023.03 - 2023.09*
+
+Intelligent Vehicle Laboratory
+
+Undergrate Student: Object Detection and Tracking, Robotics Learning, Computer Vision and Pattern Recognition
+
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/upc.png' alt="sym" width="95%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+<span style="font-size:18px;">**China University of Petroleum**</span>
+
+*2021.07 - 2023.09*
+
+School of Science, Department of Data Science and Statistics
+
+Undergrate Student: High-Dimensional Statistic, Data Mining, Biomedical Foundation Model
+
+Paper:Arxiv[paper](https://arxiv.org/abs/2410.16722)
 
 </div>
 </div>
