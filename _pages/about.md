@@ -44,7 +44,7 @@ Email :zhangzhh2024 AT shanghaitech DOT edu DOT cn
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ARXIV</div><img src='papers/OpenHOI/OpenHOI.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**OpenHOI:Open-World Hand-Object Interaction Synthesis with Multimodal Large Language Model**
+**OpenHOI: Open-World Hand-Object Interaction Synthesis with Multimodal Large Language Model**
 
 **Zhenhao Zhang**, Ye Shi†, Lingxiao Yang, Suting Ni, Qi Ye, Jingya Wang†
 
@@ -61,7 +61,7 @@ Email :zhangzhh2024 AT shanghaitech DOT edu DOT cn
 
 **DAG: Unleash the potential of Diffusion Model for Open-Vocabulary 3D Affordance Grounding**
 
-Hanqing Wang*†, **Zhenhao Zhang\***, Kaiyang Ji*, Mingyu Liu, Wenti Yin, Yuchao Chen, Zhirui Liu, Hangxing Zhang
+Hanqing Wang\*†, **Zhenhao Zhang\***, Kaiyang Ji\*, Mingyu Liu, Wenti Yin, Yuchao Chen, Zhirui Liu, Hangxing Zhang
 
 [[**Project Page**]](http://zhenhao-zhang.github.io/DAG_page/)
 </div>
@@ -116,7 +116,7 @@ Shutong Ding, Ke Hu, **Zhenhao Zhang**, Kan Ren, Weinan Zhang, Jingyi Yu, Jingya
 
 School of Information Science and Technology
 
-Major: M.S. in **Computer Technology**
+Major: M.S. in **Computer Science**
 
 
 </div>
