@@ -19,8 +19,7 @@ redirect_from:
 
 I am Current a First-year Master student in VDI Center,ShanghaiTech University under the supervision of [Prof. Ye Shi](https://shiye21.github.io) and [Prof. Jingya Wang](https://faculty.sist.shanghaitech.edu.cn/faculty/wangjingya/),who are experts in the field of Computer Vision.I get B.E. Degree in China University of Petroleum under the supervision of [Prof. Yunquan Song](https://sci.upc.edu.cn/2019/0513/c14558a206193/page.htm), who is an expert in the field of High-Dimensional Statistic.
 
-My Research interest include [**Multimodal Large Language Model (MLLM)**](https://zhangzhh.cn/LLM-Learning/),GenerativeAI and EmbodiedAI.Now I focus on the topic of [**Manipulation**](https://zhangzhh.cn/Manipulation-Learning/),Affordance and Privacy Learning.Click [Here](https://www.overleaf.com/read/jfqtwwjqvfcp#d62a26) to visit my CV.
-
+My Research interest include [**Large Language Model**](https://zhangzhh.cn/LLM-Learning/),GenerativeAI and EmbodiedAI.Now I focus on the topic of [**Manipulation**](https://zhangzhh.cn/Manipulation-Learning/),Affordance and Privacy Learning.Click [Here](https://zhenhao-zhang.github.io/CV/zhangzhh.pdf)
 
 
 
@@ -37,7 +36,7 @@ Email :zhangzhh2024 AT shanghaitech DOT edu DOT cn
 
 
 # 📝 Publications 
-#:Equal Contribution *:Corresponding Author
+*:Equal Contribution †:Corresponding Author
 
 
 
@@ -47,7 +46,7 @@ Email :zhangzhh2024 AT shanghaitech DOT edu DOT cn
 
 **OpenHOI:Open-World Hand-Object Interaction Synthesis with Multimodal Large Language Model**
 
-**Zhenhao Zhang**, Ye Shi\*, Lingxiao Yang, Suting Ni, Qi Ye, Jingya Wang\*
+**Zhenhao Zhang**, Ye Shi†, Lingxiao Yang, Suting Ni, Qi Ye, Jingya Wang†
 
 [![arXiv](https://img.shields.io/badge/arXiv-2505.18947-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2505.18947)[[**Project Page**]](http://openhoi.github.io)
 </div>
@@ -57,16 +56,16 @@ Email :zhangzhh2024 AT shanghaitech DOT edu DOT cn
 
 
 
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Coming Soon</div><img src='papers/DAG/DAG.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Coming Soon</div><img src='papers/DAG/DAG.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **DAG: Unleash the potential of Diffusion Model for Open-Vocabulary 3D Affordance Grounding**
 
-Hanqing Wang#, **Zhenhao Zhang#**, Kaiyang Ji#, Mingyu Liu, Wenti Yin, Yuchao Chen, Zhirui Liu, Hangxing Zhang
+Hanqing Wang*†, **Zhenhao Zhang\***, Kaiyang Ji*, Mingyu Liu, Wenti Yin, Yuchao Chen, Zhirui Liu, Hangxing Zhang
 
 [[**Project Page**]](http://zhenhao-zhang.github.io/DAG_page/)
 </div>
-</div> -->
+</div>
 
 
 
@@ -79,7 +78,7 @@ Hanqing Wang#, **Zhenhao Zhang#**, Kaiyang Ji#, Mingyu Liu, Wenti Yin, Yuchao Ch
 
 **Diffusion-based Reinforcement Learning via Q-weighted Variational Policy Optimization,NeurIPS 2024(CCF A)**
 
-Shutong Ding, Ke Hu, **Zhenhao Zhang**, Kan Ren, Weinan Zhang, Jingyi Yu, Jingya Wang, Ye Shi\*
+Shutong Ding, Ke Hu, **Zhenhao Zhang**, Kan Ren, Weinan Zhang, Jingyi Yu, Jingya Wang, Ye Shi†
 
 [![arXiv](https://img.shields.io/badge/arXiv-2405.16173-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2405.16173)[[**Poster**]](https://neurips.cc/virtual/2024/poster/94963)[[**Project Page**]](http://wadx2019.github.io/qvpo-webpage/)[[**Code**]](https://github.com/wadx2019/qvpo/)
 </div>
@@ -134,7 +133,6 @@ School of Computer Science and Technology
 
 Major: B.E. in **Computer Science and Technology**
 
-Paper: Submitted2023 [![arXiv](https://img.shields.io/badge/arXiv-2410.16722-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2410.16722)
 </div>
 </div>
 
@@ -155,18 +153,6 @@ Paper:NeurIPS2024 [![arXiv](https://img.shields.io/badge/arXiv-2405.16173-b31b1b
 
 </div>
 </div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/haomo.png' alt="sym" width="95%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-<span style="font-size:18px;">**HAOMO AI**</span>
-
-*2023.9.08* got the offer but have [no time to go](https://zhuanlan.zhihu.com/p/686809221)
-
-Auto-Driving Team
-
-Prediction Algorithm Intern: Autonomous Driving
 
 
 </div>
