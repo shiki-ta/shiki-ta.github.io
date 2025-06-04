@@ -202,7 +202,7 @@ Paper:Arxiv[[paper]](https://arxiv.org/abs/2410.16722)
 </div>
 
 # 💼 Services
-*  PC Member: NeurIPS 2024, ICLR 2025, AISTATS 2025, ICML 2025, NeurIPS 2025, JCNN 2025
+*  PC Member: NeurIPS 2024, ICLR 2025, AISTATS 2025, ICML 2025, NeurIPS 2025, IJCNN 2025
 *  Association Member: CAA Member, CCF Student Member
 
 # 🤝 Friends
