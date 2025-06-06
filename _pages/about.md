@@ -89,11 +89,11 @@ Shutong Ding, Ke Hu, **Zhenhao Zhang**, Kan Ren, Weinan Zhang, Jingyi Yu, Jingya
 
 
 # 🎖 Honors and Awards
-- *2023.5*,National Second Prize,China Robotics and Artificial Intelligence Competition
-- *2023.4*,Shandong First Prize in Group A,LanQiao Cup
-- *2022.11*,Bronze Medal(SOLO),Kaggle Featured Code Competition:Feedback Prize - English Language Learning
-- *2022.6*,Finalist,America Mathematics Contest in Modeling,Top 1%
-- *2021.4*,Shandong First Prize in Group A,LanQiao Cup
+- *2023.5*,National Second Prize, China Robotics and Artificial Intelligence Competition
+- *2023.4*,Shandong First Prize in Group A, LanQiao Cup
+- *2022.11*,Bronze Medal(SOLO), Kaggle Featured Code Competition:Feedback Prize - English Language Learning
+- *2022.6*,Finalist, America Mathematics Contest in Modeling,Top 1%
+- *2021.4*,Shandong First Prize in Group A, LanQiao Cup
 
 <div style="display:none">
 # 🎖 Honors and Awards
