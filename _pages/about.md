@@ -85,7 +85,7 @@ Shutong Ding, Ke Hu, **Zhenhao Zhang**, Kan Ren, Weinan Zhang, Jingyi Yu, Jingya
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ARXIV</div><img src='papers/RVSHMM/RVSHMM.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ARXIV</div><img src='papers/RVSHMM/RVSHMM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Robust Variable Selection for High-dimensional Regression with Missing Data and Measurement Errors**
@@ -94,7 +94,7 @@ Shutong Ding, Ke Hu, **Zhenhao Zhang**, Kan Ren, Weinan Zhang, Jingyi Yu, Jingya
 
 [![arXiv](https://img.shields.io/badge/arXiv-2410.16722-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2410.16722)
 </div>
-</div>
+</div> -->
 
 
 # 🎖 Honors and Awards
