@@ -149,7 +149,7 @@ Member of Intelligent Vehicle Lab, MCM Association, ACM-ICPC Club
 </div>
 </div>
 
-# 💻 Research Experiments
+# 💻 Internship
 
 
 
