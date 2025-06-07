@@ -95,14 +95,14 @@ Shutong Ding, Ke Hu, **Zhenhao Zhang**, Kan Ren, Weinan Zhang, Jingyi Yu, Jingya
 - *2022.6*,Finalist, America Mathematics Contest in Modeling,Top 1%
 - *2021.4*,Shandong First Prize in Group A, LanQiao Cup
 
-<div style="display:none">
-# 🎖 Honors and Awards
+
+<!-- # 🎖 Honors and Awards
 - *2023.5*,National Second Prize,China Robotics and Artificial Intelligence Competition[2023CRAIC TeamID:CRAIC2023-NF-BMJXSD](https://www.caairobot.com/craicresult/view/)
 - *2023.4*,Shandong First Prize in Group A,LanQiao Cup[2023LQB](https://dasai.lanqiao.cn/notices/860/)
 - *2022.11*,Bronze Medal(SOLO),Kaggle Featured Code Competition:Feedback Prize - English Language Learning[2022Kaggle](https://www.kaggle.com/upczhenhaozhang)
 - *2022.6*,Finalist,America Mathematics Contest in Modeling,Top 1%[2022MCM](https://www.comap-math.org/mcm/2022Certs/2204752.pdf)
-- *2021.4*,Shandong First Prize in Group A,LanQiao Cup[2021LQB](https://dasai.lanqiao.cn/notices/860/)
-</div>
+- *2021.4*,Shandong First Prize in Group A,LanQiao Cup[2021LQB](https://dasai.lanqiao.cn/notices/860/) -->
+
 
 
 # 📖 Educations
@@ -118,7 +118,7 @@ School of Information Science and Technology
 
 Major: M.S. in **Computer Science**
 
-
+VDI Center, YesAI Lab
 </div>
 </div>
 
@@ -132,6 +132,10 @@ Major: M.S. in **Computer Science**
 School of Computer Science and Technology
 
 Major: B.E. in **Computer Science and Technology**
+
+Intern in Department of Data Science and Statistics
+
+Member of Intelligent Vehicle Lab, MCM Association, ACM-ICPC Club
 
 </div>
 </div>
@@ -149,7 +153,7 @@ Major: B.E. in **Computer Science and Technology**
 
 VDI Center,YesAI Lab
 
-Visiting Student: Reinforcement Learning,Embodied AI
+Visiting Student: Reinforcement Learning, Embodied AI
 
 Paper:NeurIPS2024[[paper]](https://arxiv.org/abs/2405.16173)
 
