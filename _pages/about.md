@@ -19,10 +19,9 @@ redirect_from:
 
 I am Current a First-year Master student in ShanghaiTech University under the supervision of [Prof. Ye Shi](https://shiye21.github.io) and [Prof. Jingya Wang](https://faculty.sist.shanghaitech.edu.cn/faculty/wangjingya/),who are experts in the field of Computer Vision.I get B.E. Degree in China University of Petroleum under the supervision of [Prof. Yunquan Song](https://sci.upc.edu.cn/2019/0513/c14558a206193/page.htm), who is an expert in the field of High-Dimensional Statistic.
 
-My Research interest include [**Large Language Model**](https://zhangzhh.cn/LLM-Learning/),GenerativeAI and EmbodiedAI.Now I focus on the topic of [**Manipulation**](https://zhangzhh.cn/Manipulation-Learning/),[**Affordance**](https://github.com/hq-King/Awesome-Affordance-Learning) and Reasoning.Click [**Here**](https://zhenhao-zhang.github.io/CV/zhangzhh_CV_homepage.pdf) to visit my CV.
+My Research interest include [**Large Language Model**](https://zhangzhh.cn/LLM-Learning/),Generative AI and Embodied AI.Now I focus on the topic of [**Manipulation**](https://zhangzhh.cn/Manipulation-Learning/),[**Affordance**](https://github.com/hq-King/Awesome-Affordance-Learning) and Reasoning.Click [**Here**](https://zhenhao-zhang.github.io/CV/zhangzhh_CV_homepage.pdf) to visit my CV.
 
-
-
+Now I am studying on the topic of Spatial Intelligence of Interaction and Preception, 3D Large Langauge Models.I am looking for Co-authors and Friends.Feel free to contact me if you are interested in these fantasic topics!
 
 Email :zhangzhh2024 AT shanghaitech DOT edu DOT cn
 
@@ -176,5 +175,8 @@ Paper:NeurIPS2024[[paper]](https://arxiv.org/abs/2405.16173)
 *  Association Member: CAA Member, CCF Student Member
 
 # 🤝 Friends
+
+I am working/used to work closely with many friends in **U**niversity of **C**alifornia **Berkeley**, **U**niversity of **T**exas at **A**ustin, **T**exas **A&M** **U**niversity, **S**imon Fraser **U**niversity, **H**ong**K**ong **U**niversity of **S**cience and **T**echnology, **City** **U**niversity of HongKong, ShanghaiAILab, Tiktok, **T**sing**H**ua **U**niversity, **S**hanghai **J**iao **T**ong **U**niversity, **Z**he**j**iang **U**niversity, **U**niversity of **S**cience and **T**echnology of **C**hina, **N**an**J**ing **U**niversity,**ICT** CAS ...Both of them are excellent!
+
 - Undergrade:[Jiaxin Liu](https://staskaer.github.io/)
 - Master:[Kaiyang Ji](https://jiky.me/),[Yahao Fan](https://fanyahao1.github.io/),[Zhirui Liu](https://zhirui86.github.io/),[Hanqing Wang](https://hq-king.github.io/)
