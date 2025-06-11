@@ -176,7 +176,7 @@ Paper:NeurIPS2024[[paper]](https://arxiv.org/abs/2405.16173)
 
 # 🤝 Friends
 
-I am working/used to work closely with many friends in **U**niversity of **C**alifornia **Berkeley**, **U**niversity of **T**exas at **A**ustin, **T**exas **A&M** **U**niversity, **S**imon Fraser **U**niversity, **H**ong**K**ong **U**niversity of **S**cience and **T**echnology, **City** **U**niversity of HongKong, ShanghaiAILab, Tiktok, **T**sing**H**ua **U**niversity, **S**hanghai **J**iao **T**ong **U**niversity, **Z**he**j**iang **U**niversity, **U**niversity of **S**cience and **T**echnology of **C**hina, **N**an**J**ing **U**niversity,**ICT** CAS ...Both of them are excellent!
+I am working/used to work closely with many friends in **U**niversity of **C**alifornia **Berkeley**, **U**niversity of **T**exas at **A**ustin, **T**exas **A&M** **U**niversity, **S**imon **F**raser **U**niversity, **H**ong**K**ong **U**niversity of **S**cience and **T**echnology, **City** **U**niversity of HongKong, ShanghaiAILab, Tiktok, **T**sing**H**ua **U**niversity, **S**hanghai **J**iao **T**ong **U**niversity, **Z**he**j**iang **U**niversity, **U**niversity of **S**cience and **T**echnology of **C**hina, **N**an**J**ing **U**niversity,**ICT** CAS ...Both of them are excellent!
 
 - Undergrade:[Jiaxin Liu](https://staskaer.github.io/)
 - Master:[Kaiyang Ji](https://jiky.me/),[Yahao Fan](https://fanyahao1.github.io/),[Zhirui Liu](https://zhirui86.github.io/),[Hanqing Wang](https://hq-king.github.io/)
