@@ -93,7 +93,7 @@ Shutong Ding, Ke Hu, **Zhenhao Zhang**, Kan Ren, Weinan Zhang, Jingyi Yu, Jingya
 
 [![arXiv](https://img.shields.io/badge/arXiv-2410.16722-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2410.16722)
 
-I finished this work in 2023 when I was an undergraduate Student intern in the Department of Data Science and Statistics.
+I finished this work in 2023 when I was an undergraduate student intern in the Department of Data Science and Statistics.
 </div>
 </div>
 
