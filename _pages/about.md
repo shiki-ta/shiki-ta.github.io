@@ -154,7 +154,18 @@ Member of Intelligent Vehicle Lab, MCM Association, ACM-ICPC Club
 
 # 💻 Internship
 
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/signalplus.png' alt="sym" width="95%"></div></div>
+<div class='paper-box-text' markdown="1">
 
+<span style="font-size:18px;">**SignalPlus**</span>
+
+*2025.6 - 2025.9*
+
+AI Agent System Development Intern: LLM, FinTech
+
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/skd.png' alt="sym" width="95%"></div></div>
 <div class='paper-box-text' markdown="1">
