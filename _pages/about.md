@@ -161,7 +161,7 @@ Member of Intelligent Vehicle Lab, MCM Association, ACM-ICPC Club
 
 *2025.6 - 2025.9*
 
-AI Agent System Development Intern: LLM, FinTech
+AI Agent System Development Intern: LLMs, FinTech
 
 
 </div>
