@@ -35,7 +35,7 @@ Email :v-guitx AT shanghaitech DOT edu DOT cn
 
 
 # 📝 Publications 
-*:Equal Contribution †:Corresponding Author
+#:Equal Contribution *:Corresponding Author
 
 
 
