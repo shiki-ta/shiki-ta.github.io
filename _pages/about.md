@@ -44,7 +44,7 @@ Email :v-guitx AT shanghaitech DOT edu DOT cn
 
 **One Policy but Many Worlds: A Scalable Unified Policy for Versatile Humanoid Locomotion, ArXiv.** 
 
-**Yahao Fan\#**, Tianxiang Gui\#, Kaiyang Ji\#, Shutong Ding, Chixuan Zhang, Jiayuan Gu, Jingyi Yu, Jingya Wang\*, Ye Shi\*
+Yahao Fan\#, **Tianxiang Gui\#**, Kaiyang Ji\#, Shutong Ding, Chixuan Zhang, Jiayuan Gu, Jingyi Yu, Jingya Wang\*, Ye Shi\*
 
 [[**paper**]](https://arxiv.org/abs/2505.18780)
 [[**project**]](https://dreampolicy.github.io/)  
