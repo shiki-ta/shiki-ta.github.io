@@ -17,13 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Current a First-year Master student in ShanghaiTech University under the supervision of [Prof. Ye Shi](https://shiye21.github.io) and [Prof. Jingya Wang](https://faculty.sist.shanghaitech.edu.cn/faculty/wangjingya/),who are experts in the field of Computer Vision.I get B.E. Degree in China University of Petroleum under the supervision of [Prof. Yunquan Song](https://sci.upc.edu.cn/2019/0513/c14558a206193/page.htm), who is an expert in the field of High-Dimensional Statistic.
+I am Current a First-year Master student in ShanghaiTech University under the supervision of [Prof. Ye Shi](https://shiye21.github.io) and [Prof. Jingya Wang](https://faculty.sist.shanghaitech.edu.cn/faculty/wangjingya/)
 
 <!-- <a href='https://scholar.google.com.hk/citations?user=dV36HmYAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https://cdn.jsdelivr.net/gh/zhenhao-zhang/zhenhao-zhang.github.io@google-scholar-stats/gs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> -->
 
-My Research interest include [**Large Language Model**](https://zhangzhh.cn/LLM-Learning/),Generative AI and Embodied AI. Now I focus on the topic of Spatial Intelligence of [**Manipulation**](https://zhangzhh.cn/Manipulation-Learning/), [**Preception**](https://github.com/hq-King/Awesome-Affordance-Learning) and Reasoning. Click [**Here**](https://zhenhao-zhang.github.io/CV/zhangzhh_CV_homepage.pdf) to visit my CV. I am looking for Co-authors and Friends. Feel free to contact me if you are interested in these fantasic topics!
+My Research interest include Humanoid Locomotion and Embodied AI. Now I focus on the topic of Humanoid Locomotion in challenging terrains. I am looking for Co-authors and Friends. Feel free to contact me if you are interested in these fantasic topics!
 
-Email :zhangzhh2024 AT shanghaitech DOT edu DOT cn
+Email :v-guitx AT shanghaitech DOT edu DOT cn
 
 
 
@@ -31,7 +31,7 @@ Email :zhangzhh2024 AT shanghaitech DOT edu DOT cn
 
 
 # 🔥 News
-- *2024.09*:One paper accepted by **NeurIPS 2024(CCF A)**!
+- 2025.05 : One paper submitted  to **NeurIPS 2025(CCF A)**!
 
 
 # 📝 Publications 
@@ -39,159 +39,40 @@ Email :zhangzhh2024 AT shanghaitech DOT edu DOT cn
 
 
 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ARXIV</div><img src='papers/OpenHOI/OpenHOI.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv</div><img src='papers/DreamPolicy/DreamPolicy.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**OpenHOI: Open-World Hand-Object Interaction Synthesis with Multimodal Large Language Model**
+**One Policy but Many Worlds: A Scalable Unified Policy for Versatile Humanoid Locomotion, ArXiv.** 
 
-**Zhenhao Zhang**, Ye Shi†, Lingxiao Yang, Suting Ni, Qi Ye, Jingya Wang†
+**Yahao Fan\#**, Tianxiang Gui\#, Kaiyang Ji\#, Shutong Ding, Chixuan Zhang, Jiayuan Gu, Jingyi Yu, Jingya Wang\*, Ye Shi\*
 
-[![arXiv](https://img.shields.io/badge/arXiv-2505.18947-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2505.18947)[[**Project Page**]](http://openhoi.github.io)
+[[**paper**]](https://arxiv.org/abs/2505.18780)
+[[**project**]](https://dreampolicy.github.io/)  
+
 </div>
 </div>
-
-
-
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Coming Soon</div><img src='papers/DAG/DAG.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**DAG: Unleash the potential of Diffusion Model for Open-Vocabulary 3D Affordance Grounding**
-
-Hanqing Wang\*†, **Zhenhao Zhang\***, Kaiyang Ji\*, Mingyu Liu, Wenti Yin, Yuchao Chen, Zhirui Liu, Hangxing Zhang
-
-[[**Project Page**]](http://zhenhao-zhang.github.io/DAG_page/)
-
-Student First-author
-</div>
-</div>
-
-
-
-
-
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='papers/QVPO/QVPO.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Diffusion-based Reinforcement Learning via Q-weighted Variational Policy Optimization,NeurIPS 2024(CCF A)**
-
-Shutong Ding, Ke Hu, **Zhenhao Zhang**, Kan Ren, Weinan Zhang, Jingyi Yu, Jingya Wang, Ye Shi†
-
-[![arXiv](https://img.shields.io/badge/arXiv-2405.16173-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2405.16173)[[**Poster**]](https://neurips.cc/virtual/2024/poster/94963)[[**Project Page**]](http://wadx2019.github.io/qvpo-webpage/)[[**Code**]](https://github.com/wadx2019/qvpo/)
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ARXIV</div><img src='papers/RVSHMM/RVSHMM.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**Robust Variable Selection for High-dimensional Regression with Missing Data and Measurement Errors**
-
-**Zhenhao Zhang**, Yunquan Song†
-
-[![arXiv](https://img.shields.io/badge/arXiv-2410.16722-b31b1b.svg?style=flat-square)](https://arxiv.org/abs/2410.16722)
-
-I finished this work in 2023 when I was an undergraduate student intern in the Department of Data Science and Statistics.
-</div>
-</div>
-
-
-# 🎖 Honors and Awards
-- *2023.5*,National Second Prize, China Robotics and Artificial Intelligence Competition
-- *2023.4*,Shandong First Prize in Group A, LanQiao Cup
-- *2022.11*,Bronze Medal(SOLO), Kaggle Featured Code Competition:Feedback Prize - English Language Learning
-- *2022.6*,Finalist, America Mathematics Contest in Modeling,Top 1%
-- *2021.4*,Shandong First Prize in Group A, LanQiao Cup
-
-
-<!-- # 🎖 Honors and Awards
-- *2023.5*,National Second Prize,China Robotics and Artificial Intelligence Competition[2023CRAIC TeamID:CRAIC2023-NF-BMJXSD](https://www.caairobot.com/craicresult/view/)
-- *2023.4*,Shandong First Prize in Group A,LanQiao Cup[2023LQB](https://dasai.lanqiao.cn/notices/860/)
-- *2022.11*,Bronze Medal(SOLO),Kaggle Featured Code Competition:Feedback Prize - English Language Learning[2022Kaggle](https://www.kaggle.com/upczhenhaozhang)
-- *2022.6*,Finalist,America Mathematics Contest in Modeling,Top 1%[2022MCM](https://www.comap-math.org/mcm/2022Certs/2204752.pdf)
-- *2021.4*,Shandong First Prize in Group A,LanQiao Cup[2021LQB](https://dasai.lanqiao.cn/notices/860/) -->
 
 
 
 # 📖 Educations
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/skd.png' alt="sym" width="95%"></div></div>
-<div class='paper-box-text' markdown="1">
 
-<span style="font-size:18px;">**ShanghaiTech University**</span>
-
-*2024.09 - now*
-
-School of Information Science and Technology
-
-Major: M.S. in **Computer Science**
-
-MoE Key Laboratory of Intelligent Perception and Human Machine Collaboration, VDI Center, YesAI Lab
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/upc.png' alt="sym" width="95%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-<span style="font-size:18px;">**China University of Petroleum**</span>
-
-*2020.09 - 2024.06*
-
-School of Computer Science and Technology
-
-Major: B.E. in **Computer Science and Technology**
-
-Intern in Department of Data Science and Statistics
-
-Member of Intelligent Vehicle Lab, MCM Association, ACM-ICPC Club
-
-</div>
-</div>
+- *2025.09 - now*, ShanghaiTech University, School of Information Science and Technology, major in **Computer Technology**
+- *2021.09 - 2025.06*, SouthWest JiaoTong University, major in **Electronic information**
 
 # 💻 Internship
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/signalplus.png' alt="sym" width="95%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-<span style="font-size:18px;">**SignalPlus**</span>
-
-*2025.6 - 2025.9*
-
-AI Agent System Development Intern: LLM, FinTech
-
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/skd.png' alt="sym" width="95%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-<span style="font-size:18px;">**ShanghaiTech University**</span>
-
-*2024.3 - 2024.9*
-
-VDI Center,YesAI Lab
-
-Visiting Student: Reinforcement Learning, Embodied AI
-
-Paper:NeurIPS2024[[paper]](https://arxiv.org/abs/2405.16173)
-
-</div>
-</div>
+- *2025.1-2025.9*, Visiting Student, ShanghaiTech University, VDI Center, YesAI Lab
 
 
 
 # 💼 Services
-*  PC Member: NeurIPS 2024, ICLR 2025, AISTATS 2025, ICML 2025, NeurIPS 2025, IJCNN 2025
-*  Association Member: CAA Member, CCF Student Member
+<!-- *  PC Member: NeurIPS 2024, ICLR 2025, AISTATS 2025, ICML 2025, NeurIPS 2025, IJCNN 2025
+*  Association Member: CAA Member, CCF Student Member -->
+
+- TBA
 
 # 🤝 Friends
 
-<!-- I am working/used to work closely with many friends in **U**niversity of **C**alifornia **Berkeley**, **U**niversity of **T**exas at **Austin**, **T**exas **A&M** **U**niversity, **S**imon **F**raser **U**niversity, **H**ong**K**ong **U**niversity of **S**cience and **T**echnology, **City** **U**niversity of HongKong, ShanghaiAILab, Tiktok, **T**sing**H**ua **U**niversity, **S**hanghai **J**iao **T**ong **U**niversity, **Z**he**J**iang **U**niversity, **U**niversity of **S**cience and **T**echnology of **C**hina, **N**an**J**ing **U**niversity,**ICT** CAS ...Both of them are excellent! -->
 
-- Undergrade:[Jiaxin Liu](https://staskaer.github.io/)
-- Master:[Kaiyang Ji](https://jiky.me/),[Yahao Fan](https://fanyahao1.github.io/),[Zhirui Liu](https://zhirui86.github.io/),[Hanqing Wang](https://hq-king.github.io/)
+- Master:[Kaiyang Ji](https://jiky.me/),[Yahao Fan](https://fanyahao1.github.io/),[Zhirui Liu](https://zhirui86.github.io/),[Zhenhao Zhang](https://zhenhao-zhang.github.io/),
