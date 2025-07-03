@@ -52,6 +52,9 @@ Yahao Fan\#, **Tianxiang Gui\#**, Kaiyang Ji\#, Shutong Ding, Chixuan Zhang, Jia
 </div>
 </div>
 
+# Project 
+
+[[**Humanoid Terrain Bench**]](https://github.com/shiki-ta/Humanoid-Terrain-Bench/tree/master)  (prepared for iccv workshop)
 
 
 # 📖 Educations
