@@ -54,7 +54,11 @@ Yahao Fan\#, **Tianxiang Gui\#**, Kaiyang Ji\#, Shutong Ding, Chixuan Zhang, Jia
 
 # Project 
 
-[[**Humanoid Terrain Bench**]](https://github.com/shiki-ta/Humanoid-Terrain-Bench/tree/master)  (prepared for iccv workshop)
+
+[[**ICCV Multi-Terrain Humanoid Locomotion Challenge in Human-Robot-Scene Interaction and Collaboration**]](https://human-robot-scene.github.io/Terrain-Challenge/) One of the organizers
+
+[[**Humanoid Terrain Bench**]](https://github.com/shiki-ta/Humanoid-Terrain-Bench/tree/master) Multi challenging terrain for humanoid robot.
+
 
 
 # 📖 Educations
