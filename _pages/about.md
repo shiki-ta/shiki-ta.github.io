@@ -54,9 +54,6 @@ Yahao Fan\#, **Tianxiang Gui\#**, Kaiyang Ji\#, Shutong Ding, Chixuan Zhang, Jia
 
 # Project 
 
-
-[[**ICCV Multi-Terrain Humanoid Locomotion Challenge in Human-Robot-Scene Interaction and Collaboration**]](https://human-robot-scene.github.io/Terrain-Challenge/) One of the organizers
-
 [[**Humanoid Terrain Bench**]](https://github.com/shiki-ta/Humanoid-Terrain-Bench/tree/master) Multi challenging terrain for humanoid robot.
 
 
@@ -74,8 +71,8 @@ Yahao Fan\#, **Tianxiang Gui\#**, Kaiyang Ji\#, Shutong Ding, Chixuan Zhang, Jia
 
 
 # 💼 Services
-<!-- *  PC Member: NeurIPS 2024, ICLR 2025, AISTATS 2025, ICML 2025, NeurIPS 2025, IJCNN 2025
-*  Association Member: CAA Member, CCF Student Member -->
+
+[[**ICCV Multi-Terrain Humanoid Locomotion Challenge in Human-Robot-Scene Interaction and Collaboration**]](https://human-robot-scene.github.io/Terrain-Challenge/) Organizers.
 
 - TBA
 
