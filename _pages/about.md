@@ -17,13 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Current a First-year Master student in ShanghaiTech University under the supervision of [Prof. Ye Shi](https://shiye21.github.io) and [Prof. Jingya Wang](https://faculty.sist.shanghaitech.edu.cn/faculty/wangjingya/)
+I am Current a Second-year Master student in ShanghaiTech University under the supervision of [Prof. Ye Shi](https://shiye21.github.io) and [Prof. Jingya Wang](https://faculty.sist.shanghaitech.edu.cn/faculty/wangjingya/)
 
 <!-- <a href='https://scholar.google.com.hk/citations?user=dV36HmYAAAAJ'><img src="https://img.shields.io/endpoint?logo=Google%20Scholar&url=https://cdn.jsdelivr.net/gh/zhenhao-zhang/zhenhao-zhang.github.io@google-scholar-stats/gs_data_shieldsio.json&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> -->
 
-My Research interest include Humanoid Locomotion and Embodied AI. Now I focus on the topic of Humanoid Locomotion in challenging terrains. I am looking for Co-authors and Friends. Feel free to contact me if you are interested in these fantasic topics!
+My Research interest include Humanoid Locomotion and Humanoid Loco-manipulation. Now I focus on the topic of Simulated synthetic data and Humanoid robot system. Feel free to contact me if you are interested in these fantasic topics!
 
-Email :v-guitx AT shanghaitech DOT edu DOT cn
+Email : guitx2025 AT shanghaitech DOT edu DOT cn
 
 # 📝 Publications
 {: #publications }
@@ -114,3 +114,4 @@ Originally titled *One Policy but Many Worlds: A Scalable Unified Policy for Ver
 {: #awards }
 
 - **2026 — 5th Place, Simulation Challenge**, [**LeHome Challenge at ICRA 2026**](https://lehome-challenge.com/). Team Leader of **GraspYesAI**.
+- **2025 — Lead Organizer**, [**Multi-Terrain Humanoid Locomotion Challenge**](https://human-robot-scene.github.io/Terrain-Challenge/), ICCV 2025 Workshop on Human-Robot-Scene Interaction and Collaboration.

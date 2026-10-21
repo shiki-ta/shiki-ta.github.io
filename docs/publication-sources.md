@@ -14,3 +14,5 @@ Preview PNGs were resized proportionally to a maximum dimension of 1,000 pixels.
 At the site owner's request on 2026-10-21, DAG and HOID-R1 were removed from the homepage. The publication list contains four distinct works; One Policy and DreamPolicy are versions of the same work, not separate publications.
 
 The [LeHome Challenge 2026 website](https://lehome-challenge.com/) loads its simulation leaderboard from `POST https://lightwheel.ai/lwapi/open/lehome/ranking` with body `{}`. At verification, registration `r201`, team `GraspYesAI`, was fifth with a mean score of `70.63%`. The team-leader role was supplied by the site owner. The award specifically refers to the simulation challenge.
+
+The [Multi-Terrain Humanoid Locomotion Challenge website](https://human-robot-scene.github.io/Terrain-Challenge/), checked on 2026-10-21, identifies the event as part of the ICCV 2025 Workshop on Human-Robot-Scene Interaction and Collaboration and lists Tianxiang Gui among its organizers. The site owner confirmed responsibility for organizing and leading the event; the homepage uses the title "Lead Organizer".
