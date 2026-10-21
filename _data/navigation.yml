@@ -3,24 +3,15 @@ main:
   - title: "About Me"
     url: "/#about-me"
 
-  - title: "News"
-    url: "/#-news"
-
-
-
   - title: "Publications"
-    url: "/#-publications"
-
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
+    url: "/#publications"
 
   - title: "Educations"
-    url: "/#-educations"
-
+    url: "/#educations"
 
   - title: "Internships"
-    url: "/#-internships"
+    url: "/#internships"
 
-  - title: "Services"
-    url: "/#-services"
+  - title: "Awards"
+    url: "/#awards"
 

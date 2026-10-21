@@ -25,58 +25,92 @@ My Research interest include Humanoid Locomotion and Embodied AI. Now I focus on
 
 Email :v-guitx AT shanghaitech DOT edu DOT cn
 
+# 📝 Publications
+{: #publications }
 
+[**Google Scholar**](https://scholar.google.com/citations?user=ZdHrL78AAAAJ&hl=zh-CN)
 
+<sup>#</sup> Equal contribution · <sup>&#42;</sup> Corresponding author
 
+## 2026
 
-
-# 🔥 News
-- 2025.05 : One paper submitted  to **NeurIPS 2025(CCF A)**!
-
-
-# 📝 Publications 
-#:Equal Contribution *:Corresponding Author
-
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv</div><img src='papers/DreamPolicy/DreamPolicy.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='papers/InstAgent/InstAgent.png' alt="InstAgent overview for heterogeneous robot collaboration" width="100%" loading="lazy"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**One Policy but Many Worlds: A Scalable Unified Policy for Versatile Humanoid Locomotion, ArXiv.** 
+**InstAgent: A Recursively Self-Improving Agent Operating System for Heterogeneous Robot Collaboration**
 
-Yahao Fan\#, **Tianxiang Gui\#**, Kaiyang Ji\#, Shutong Ding, Chixuan Zhang, Jiayuan Gu, Jingyi Yu, Jingya Wang\*, Ye Shi\*
+Haoyang Luo<sup>#</sup>, Junhao Qin<sup>#</sup>, Jingyan Cao<sup>#</sup>, Yi Huang, Guangjie Yang, Xiaoyu Chen, Haotao Lu, **Tianxiang Gui**, Ye Shi, Jingya Wang<sup>&#42;</sup>
+
+*arXiv preprint, 2026.*
+
+[[**paper**]](https://arxiv.org/abs/2610.23098)
+[[**project**]](https://instagent01.github.io/)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='papers/SteerGenPO/SteerGenPO.png' alt="SteerGenPO latent steering framework for stable robotic control" width="100%" loading="lazy"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Steering Generative Reinforcement Learning into Stable Robotic Controller**
+
+Yixuan Wang<sup>#</sup>, Shutong Ding<sup>#</sup>, Ke Hu<sup>#</sup>, **Tianxiang Gui**, Jingya Wang, Ye Shi<sup>&#42;</sup>
+
+*arXiv preprint, 2026.*
+
+[[**paper**]](https://arxiv.org/abs/2606.16572)
+
+</div>
+</div>
+
+## 2025
+
+<div class='paper-box paper-box--text-only'>
+<div class='paper-box-text' markdown="1">
+
+**Sisyphus: An attention-driven humanoid object interaction policy**
+
+**Tianxiang Gui**, Ke Yang, Yahao Fan, Chixuan Zhang, Jingya Wang<sup>&#42;</sup>, Ye Shi<sup>&#42;</sup>
+
+*IROS 2025 Workshop: Augmentative Human–Robot Interaction.*
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='papers/DreamPolicy/DreamPolicy-v3.png' alt="DreamPolicy humanoid locomotion across diverse terrains" width="100%" loading="lazy"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**DreamPolicy: A Unified World-model Policy for Scalable Humanoid Locomotion**
+
+Yahao Fan<sup>#</sup>, **Tianxiang Gui**<sup>#</sup>, Kaiyang Ji<sup>#</sup>, Shutong Ding, Chixuan Zhang, Yifeng Xu, Ke Yang, Jiayuan Gu, Jingyi Yu, Jingya Wang<sup>&#42;</sup>, Ye Shi<sup>&#42;</sup>
+
+*arXiv preprint, 2025 (updated 2026).*
+
+Originally titled *One Policy but Many Worlds: A Scalable Unified Policy for Versatile Humanoid Locomotion*.
 
 [[**paper**]](https://arxiv.org/abs/2505.18780)
-[[**project**]](https://dreampolicy.github.io/)  
+[[**original version**]](https://arxiv.org/abs/2505.18780v1)
+[[**project**]](https://dreampolicy.github.io/)
 
 </div>
 </div>
 
-# Project 
+# Project
 
 [[**Humanoid Terrain Bench**]](https://github.com/shiki-ta/Humanoid-Terrain-Bench/tree/master) Multi challenging terrain for humanoid robot.
 
-
-
 # 📖 Educations
-
+{: #educations }
 
 - *2025.09 - now*, ShanghaiTech University, School of Information Science and Technology, major in **Computer Technology**
 - *2021.09 - 2025.06*, SouthWest JiaoTong University, major in **Electronic information**
 
 # 💻 Internship
+{: #internships }
 
 - *2025.1-2025.9*, Visiting Student, ShanghaiTech University, VDI Center, YesAI Lab
 
+# 🏆 Awards
+{: #awards }
 
-
-# 💼 Services
-
-[[**ICCV Multi-Terrain Humanoid Locomotion Challenge in Human-Robot-Scene Interaction and Collaboration**]](https://human-robot-scene.github.io/Terrain-Challenge/) Organizers.
-
-- TBA
-
-# 🤝 Friends
-
-
-- Master:[Kaiyang Ji](https://jiky.me/),[Yahao Fan](https://fanyahao1.github.io/),[Zhirui Liu](https://zhirui86.github.io/),[Zhenhao Zhang](https://zhenhao-zhang.github.io/),
+- **2026 — 5th Place, Simulation Challenge**, [**LeHome Challenge at ICRA 2026**](https://lehome-challenge.com/). Team Leader of **GraspYesAI**.
