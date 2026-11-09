@@ -1,9 +1,10 @@
-# Publication and award sources
+# Publication, project, and award sources
 
 Checked on 2026-10-21. Google Scholar profile `ZdHrL78AAAAJ` returned HTTP 429, so the entries below were checked against public paper pages, PDFs, conference listings, and author/project pages. The site owner approved using verifiable public information.
 
 | Entry | Bibliography and status sources | Preview source |
 | --- | --- | --- |
+| SUGARv2 | [arXiv v1](https://arxiv.org/abs/2611.09266v1), [full text](https://arxiv.org/html/2611.09266v1), [project](https://tianshuwu.github.io/sugarv2-humanoid/); checked on 2026-11-09. Initial submission: 2026-11-06. Title and full author order verified; no equal-contribution or corresponding-author markers are specified in the published author block. | [Paper framework overview](https://arxiv.org/html/2611.09266v1/sugarv2_overview_five_tasks.png) |
 | InstAgent | [arXiv v1](https://arxiv.org/abs/2610.23098v1), [project](https://instagent01.github.io/) | [Paper teaser](https://arxiv.org/html/2610.23098v1/teaser.png) |
 | SteerGenPO | [arXiv v1](https://arxiv.org/abs/2606.16572v1); contribution markers checked against the PDF first page | [Paper overview](https://arxiv.org/html/2606.16572v1/steer.png) |
 | Sisyphus | [Coauthor Yahao Fan's publication list](https://fanyahao1.github.io/); listed as an IROS 2025 workshop paper, with no public paper URL or preview supplied | None |
@@ -11,7 +12,9 @@ Checked on 2026-10-21. Google Scholar profile `ZdHrL78AAAAJ` returned HTTP 429, 
 
 Preview PNGs were resized proportionally to a maximum dimension of 1,000 pixels. The original DreamPolicy image remains in the repository. Preprints use their initial arXiv publication year. DreamPolicy explicitly notes its earlier title and 2026 revision.
 
-At the site owner's request on 2026-10-21, DAG and HOID-R1 were removed from the homepage. The publication list contains four distinct works; One Policy and DreamPolicy are versions of the same work, not separate publications.
+At the site owner's request on 2026-10-21, DAG and HOID-R1 were removed from the homepage. The publication list then contained four distinct works; One Policy and DreamPolicy are versions of the same work, not separate publications. SUGARv2 was added on 2026-11-09, bringing the list to five distinct works.
+
+The [SuperMimic-Retargeted README](https://github.com/tianshuwu/supermimic-retargeted/blob/main/README.md), checked on 2026-11-09, describes an unofficial adaptation of SuperMimic-Reproduced for G1, A3, and X2 Ultra, covering motion retargeting, training, evaluation, and visualization. The homepage description specifies simulation, matching the repository's documented validation scope.
 
 The [LeHome Challenge 2026 website](https://lehome-challenge.com/) loads its simulation leaderboard from `POST https://lightwheel.ai/lwapi/open/lehome/ranking` with body `{}`. At verification, registration `r201`, team `GraspYesAI`, was fifth with a mean score of `70.63%`. The team-leader role was supplied by the site owner. The award specifically refers to the simulation challenge.
 

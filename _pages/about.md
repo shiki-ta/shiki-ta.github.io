@@ -34,6 +34,21 @@ Email : guitx2025 AT shanghaitech DOT edu DOT cn
 
 ## 2026
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='papers/SUGARv2/SUGARv2.png' alt="SUGARv2 interaction reference synthesis and visual humanoid policy learning framework" width="100%" loading="lazy"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**SUGARv2: Learning Diverse Visual Humanoid Loco-Manipulation Skills from Synthesized Interaction References**
+
+Tianshu Wu, **Tianxiang Gui**, Yue Chen, Tingxu Liu, Ziye Peng, Guangjie Yang, Xiangqi Kong, Ye Shi, Jingya Wang, Hao Dong
+
+*arXiv preprint, 2026.*
+
+[[**paper**]](https://arxiv.org/abs/2611.09266)
+[[**project**]](https://tianshuwu.github.io/sugarv2-humanoid/)
+
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='papers/InstAgent/InstAgent.png' alt="InstAgent overview for heterogeneous robot collaboration" width="100%" loading="lazy"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -96,6 +111,8 @@ Originally titled *One Policy but Many Worlds: A Scalable Unified Policy for Ver
 </div>
 
 # Project
+
+[[**SuperMimic-Retargeted**]](https://github.com/tianshuwu/supermimic-retargeted) An unofficial adaptation of SuperMimic-Reproduced for humanoid motion tracking on G1, A3, and X2 Ultra in simulation, with motion retargeting, training, evaluation, and visualization workflows.
 
 [[**Humanoid Terrain Bench**]](https://github.com/shiki-ta/Humanoid-Terrain-Bench/tree/master) Multi challenging terrain for humanoid robot.
 
